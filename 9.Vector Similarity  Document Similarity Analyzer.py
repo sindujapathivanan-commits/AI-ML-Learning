@@ -1,6 +1,9 @@
 
 
 #Create 10 short documents
+
+import numpy as np
+
 data = {
     "Technology": [4, 3, 9, 0],
     "dog": [8, 4, 9, 3],
@@ -14,68 +17,22 @@ data = {
     "clock": [3, 1, 0, 4],
       
 }
-for data in data:
-  print(data) 
-
-#Represent each document using numerical vectors
-
-import numpy as np
-
-vectors = {
-     "Technology": [4, 3, 9, 0],
-        "dog": [8, 4, 9, 3],
-        "printer": [4, 5, 7, 8],
-        "violin": [5, 4, 7, 4],
-        "book": [0, 5, 3, 2],
-        "apple": [1, 1, 5, 6],
-        "lunch": [6, 2, 5, 5],
-        "Happy": [4, 4, 5, 8, 3],
-        "house": [7, 5, 4, 8],
-        "clock": [3, 1, 0, 4],            
-}
-print(vectors)
-
-# similarity calculation to know which vectors are closest.
-
-print("\n===== similarity calculation to know which vectors are closest, Calculate similarity.=====")
+ #Accept the query vector
+query = [4, 3, 9, 0]
 
 
-from sklearn.metrics.pairwise import cosine_similarity
+#Convert the query to NumPy array
+query = np.array(query)
 
-vectors1 = [
-     [4, 3, 9, 0],
-     [8, 4, 9, 3],
-     [4, 5, 7, 8],
-     [5, 4, 7, 4],
-     [0, 5, 3, 2],
-     [1, 1, 5, 6],
-     [6, 2, 5, 5],
-     [4, 4, 5, 8],
-     [7, 5, 4, 8],
-     [3, 1, 0, 4]     
-]
-# Calculate similarity
-similarity = cosine_similarity(vectors)
+#Compare query with every document
+for name, vector in data.items():
 
-print(similarity)
+    vector = np.array(vector)
 
-#Rank documents from most similar to least similar.
+    similarity = np.dot(query, vector) / (
+        np.linalg.norm(query) * np.linalg.norm(vector)
+    )
 
-print("\n===== Rank documents from most similar to least similar.=====")
-
-
-for i in range(len(similarity)):
-    print(similarity)
+    print(name, similarity)
     
-    #Display the top 3 results.
-    print("\n===== Display the top 3 results=====")
-
-results = list(zip(vectors1, data))
-
-results.sort(reverse=True)
-
-print(results[:3])
-
-
-for vectors1, data in results[:3]:
-    print(data, vectors1)
+  
