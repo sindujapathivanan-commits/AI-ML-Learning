@@ -1,6 +1,9 @@
 
+from ast import Compare
+
 from sentence_transformers import SentenceTransformer
 import numpy as np
+from torch import embedding
 
 # Data to encode
 sentences = [
@@ -36,25 +39,112 @@ sentences = [
     "Pack a small bag for a short trip."
 ]
 
-print(sentences)
-
 # 1. Load embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Generate embeddings
-print("\n===== Generate embeddings =====")
+print("\n=====1. Generate embeddings =====")
 embeddings = model.encode(sentences)
 
+ 
+## Print sentence + embedding
+for i, sentence in enumerate(sentences):
+    print(i, sentence)
+    print("Vector (first 5):", embeddings[i][:5])
+    
 print("Done. Embeddings shape:", embeddings.shape)
 print("Embeddings created!")
 print("Number of embeddings:", len(embeddings))
 
+print("\n===== each embedded sentence =====")
+print(embeddings)
 
-# Display a few embedding details
-print("\n===== Top 5 matches =====")
-print("\nTop 5 matches:")
-for sentence, vector in zip(sentences, embeddings):
+#store the embedding
+print("\n===== 2. Store the embedding =====")
+import numpy as np
+np.save("embeddings.npy", embeddings)
+embeddings = np.load("embeddings.npy")
+print(embeddings)
+
+#Generate query embedding
+print("\n===== 3. Generate query embedding =====")
+query = "I want to learn artificial intelligence"
+query_embedding = model.encode([query])
+
+#Compare query with every document
+print("\n===== 4.Compare query with every document =====")
+for i, sentence in enumerate(sentences):
+    print(i, sentence)
+    print("Vector (first 5):", embeddings[i][:5])
     print("Sentence:", sentence)
-    print("Embedding size:", len(vector))
+    print("Embedding:", query_embedding)
     print()
-   
+       
+  #Compare query with every document
+print("\n===== 5.Calculate similarity.=====")
+similarities = np.dot(embeddings, query_embedding.T)
+print("Similarities shape:", similarities.shape)
+print("Similarities:", similarities)
+
+#See sentence + similarity
+print("\n===== See sentence + similarity=====")
+for sentence, score in zip(sentences, similarities[0]):
+    print(sentence, score)
+    
+#Rank results
+print("\n===== Rank results=====")
+results = list(zip(sentences, similarities[0]))
+results.sort(key=lambda x: x[1], reverse=True)
+
+for rank, result in enumerate(results):
+    print(rank, result[0], result)
+    
+    
+    
+#Sorts from highest → lowest.  
+print("\n=====highest → lowest=====")
+for rank, (sentence, score) in enumerate(results, 1):
+    print(rank, score, sentence)
+    
+    
+     #Sorts from highest → lowest.  
+    print("\n===== highest → lowest.  =====")
+
+    results = [
+[ 0.08537271],
+ [ 0.45389223],
+ [ 0.14538074],
+ [ 0.25042123],
+ [ 0.15567026],
+ [ 0.5750976 ],
+ [ 0.51353896],
+ [ 0.34531987],
+ [ 0.41015667],
+ [ 0.46220583],
+ [ 0.42885435],
+ [ 0.25020683],
+ [ 0.26424855],
+ [ 0.20763919],
+ [ 0.22541118],
+ [ 0.24709435],
+ [ 0.34952235],
+ [-0.00473217],
+ [ 0.01293283],
+ [ 0.05705832],
+ [ 0.03177438],
+ [ 0.06963825],
+ [ 0.0787719 ],
+ [-0.00808025],
+ [ 0.02237052],
+ [ 0.07976358],
+ [-0.03394672],
+ [ 0.01613097],
+ [ 0.01323562]]
+
+    
+    results.sort(reverse=True) #Display the top 3 results.
+    
+    print("Rank 1:", results[0])
+    print("Rank 2:", results[1])
+    print("Rank 3:", results[2])
+    print("Rank 4:", results[3])
