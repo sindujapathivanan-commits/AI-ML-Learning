@@ -80,7 +80,7 @@ for i, sentence in enumerate(sentences):
     print("Embedding:", query_embedding)
     print()
        
-  #Compare query with every document
+  #Calculate similarity
 print("\n===== 5.Calculate similarity.=====")
 similarities = np.dot(embeddings, query_embedding.T)
 print("Similarities shape:", similarities.shape)
@@ -113,7 +113,7 @@ for rank, (sentence, score) in enumerate(results, 1):
     results = [
 [ 0.08537271],
  [ 0.45389223],
- [ 0.14538074],
+ [ 0.14538074], 
  [ 0.25042123],
  [ 0.15567026],
  [ 0.5750976 ],
