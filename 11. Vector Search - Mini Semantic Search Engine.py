@@ -87,8 +87,7 @@ results.sort(key=lambda x: x[1], reverse=True)
 for rank, result in enumerate(results):
     print(rank, result[0], result)
     
-    
-    
+     
 #Sorts from highest → lowest.  
 print("\n=====highest → lowest=====")
 for rank, (documents, score) in enumerate(results, 1):
