@@ -1,0 +1,121 @@
+Order ID,Product,Category,Quantity,Price,Revenue,City,Date
+1001,Smartphone,Electronics,1,"Rs. 47,170","Rs. 47,170",Kandy,2026-04-25
+1002,Headphones,Electronics,2,"Rs. 8,280","Rs. 16,560",Negombo,2026-02-14
+1003,Sneakers,Clothing,7,"Rs. 8,160","Rs. 57,120",Colombo,2026-04-22
+1004,Office Chair,Furniture,6,"Rs. 15,310","Rs. 91,860",Negombo,2026-04-12
+1005,Jeans,Clothing,7,"Rs. 5,660","Rs. 39,620",Negombo,2026-05-23
+1006,Laptop,Electronics,1,"Rs. 88,370","Rs. 88,370",Galle,2026-05-23
+1007,Headphones,Electronics,4,"Rs. 8,730","Rs. 34,920",Galle,2026-02-22
+1008,Smartphone,Electronics,2,"Rs. 41,370","Rs. 82,740",Galle,2026-05-16
+1009,Laptop,Electronics,1,"Rs. 85,620","Rs. 85,620",Jaffna,2026-02-10
+1010,Jeans,Clothing,5,"Rs. 6,400","Rs. 32,000",Negombo,2026-07-05
+1011,Sneakers,Clothing,4,"Rs. 9,370","Rs. 37,480",Colombo,2026-04-27
+1012,Desk,Furniture,2,"Rs. 26,780","Rs. 53,560",Colombo,2026-07-14
+1013,Desk,Furniture,3,"Rs. 25,680","Rs. 77,040",Galle,2026-03-25
+1014,Notebook,Stationery,6,Rs. 380,"Rs. 2,280",Galle,2026-02-06
+1015,Sneakers,Clothing,3,"Rs. 9,060","Rs. 27,180",Kandy,2026-03-25
+1016,T-Shirt,Clothing,7,"Rs. 2,380","Rs. 16,660",Negombo,2026-04-23
+1017,Notebook,Stationery,1,Rs. 380,Rs. 380,Colombo,2026-06-11
+1018,Pen Pack,Stationery,5,Rs. 550,"Rs. 2,750",Negombo,2026-06-11
+1019,Office Chair,Furniture,6,"Rs. 14,690","Rs. 88,140",Jaffna,2026-03-15
+1020,Desk,Furniture,3,"Rs. 23,730","Rs. 71,190",Negombo,2026-05-15
+1021,Sneakers,Clothing,7,"Rs. 9,720","Rs. 68,040",Jaffna,2026-07-05
+1022,Office Chair,Furniture,3,"Rs. 15,030","Rs. 45,090",Colombo,2026-01-25
+1023,Smartphone,Electronics,2,"Rs. 46,150","Rs. 92,300",Jaffna,2026-02-02
+1024,Pen Pack,Stationery,7,Rs. 610,"Rs. 4,270",Jaffna,2026-09-28
+1025,Desk,Furniture,3,"Rs. 26,800","Rs. 80,400",Colombo,2026-02-28
+1026,Jeans,Clothing,5,"Rs. 6,320","Rs. 31,600",Galle,2026-02-27
+1027,Desk,Furniture,4,"Rs. 23,290","Rs. 93,160",Colombo,2026-05-15
+1028,Jeans,Clothing,3,"Rs. 6,010","Rs. 18,030",Colombo,2026-06-02
+1029,Jeans,Clothing,10,"Rs. 5,640","Rs. 56,400",Galle,2026-03-24
+1030,Jeans,Clothing,9,"Rs. 6,500","Rs. 58,500",Negombo,2026-06-15
+1031,T-Shirt,Clothing,1,"Rs. 2,310","Rs. 2,310",Galle,2026-06-07
+1032,Office Chair,Furniture,1,"Rs. 14,220","Rs. 14,220",Negombo,2026-02-10
+1033,Smartphone,Electronics,2,"Rs. 47,840","Rs. 95,680",Negombo,2026-03-06
+1034,Headphones,Electronics,8,"Rs. 8,710","Rs. 69,680",Kandy,2026-05-16
+1035,Jeans,Clothing,10,"Rs. 5,910","Rs. 59,100",Kandy,2026-04-13
+1036,Desk,Furniture,3,"Rs. 27,480","Rs. 82,440",Galle,2026-08-13
+1037,Jeans,Clothing,8,"Rs. 5,550","Rs. 44,400",Kandy,2026-02-02
+1038,Notebook,Stationery,1,Rs. 410,Rs. 410,Kandy,2026-04-23
+1039,Laptop,Electronics,1,"Rs. 88,530","Rs. 88,530",Colombo,2026-04-28
+1040,Smartphone,Electronics,1,"Rs. 48,240","Rs. 48,240",Colombo,2026-09-21
+1041,Office Chair,Furniture,5,"Rs. 15,510","Rs. 77,550",Kandy,2026-03-09
+1042,Sneakers,Clothing,10,"Rs. 8,950","Rs. 89,500",Jaffna,2026-07-28
+1043,Office Chair,Furniture,2,"Rs. 13,790","Rs. 27,580",Jaffna,2026-07-01
+1044,Pen Pack,Stationery,7,Rs. 600,"Rs. 4,200",Colombo,2026-02-20
+1045,Laptop,Electronics,1,"Rs. 88,880","Rs. 88,880",Colombo,2026-05-08
+1046,Office Chair,Furniture,4,"Rs. 15,110","Rs. 60,440",Kandy,2026-08-05
+1047,Headphones,Electronics,5,"Rs. 7,940","Rs. 39,700",Colombo,2026-08-15
+1048,Jeans,Clothing,2,"Rs. 5,460","Rs. 10,920",Negombo,2026-01-08
+1049,Smartphone,Electronics,2,"Rs. 42,000","Rs. 84,000",Jaffna,2026-09-04
+1050,Office Chair,Furniture,6,"Rs. 16,210","Rs. 97,260",Kandy,2026-07-14
+1051,Laptop,Electronics,1,"Rs. 81,010","Rs. 81,010",Jaffna,2026-05-27
+1052,Pen Pack,Stationery,9,Rs. 620,"Rs. 5,580",Jaffna,2026-03-21
+1053,Office Chair,Furniture,5,"Rs. 14,150","Rs. 70,750",Colombo,2026-02-01
+1054,Notebook,Stationery,1,Rs. 360,Rs. 360,Jaffna,2026-09-15
+1055,Jeans,Clothing,3,"Rs. 5,470","Rs. 16,410",Negombo,2026-02-11
+1056,Headphones,Electronics,2,"Rs. 8,150","Rs. 16,300",Kandy,2026-07-26
+1057,Smartphone,Electronics,2,"Rs. 42,720","Rs. 85,440",Negombo,2026-01-21
+1058,Sneakers,Clothing,2,"Rs. 8,850","Rs. 17,700",Negombo,2026-09-25
+1059,Notebook,Stationery,5,Rs. 380,"Rs. 1,900",Galle,2026-05-03
+1060,Desk,Furniture,4,"Rs. 23,150","Rs. 92,600",Galle,2026-08-23
+1061,Notebook,Stationery,2,Rs. 360,Rs. 720,Negombo,2026-02-21
+1062,Smartphone,Electronics,2,"Rs. 42,420","Rs. 84,840",Galle,2026-03-09
+1063,Notebook,Stationery,2,Rs. 430,Rs. 860,Galle,2026-05-26
+1064,Headphones,Electronics,8,"Rs. 8,530","Rs. 68,240",Galle,2026-09-28
+1065,Laptop,Electronics,1,"Rs. 81,590","Rs. 81,590",Colombo,2026-03-10
+1066,Desk,Furniture,2,"Rs. 26,950","Rs. 53,900",Negombo,2026-03-21
+1067,Desk,Furniture,3,"Rs. 25,520","Rs. 76,560",Galle,2026-04-15
+1068,Desk,Furniture,4,"Rs. 24,940","Rs. 99,760",Colombo,2026-02-17
+1069,Pen Pack,Stationery,5,Rs. 550,"Rs. 2,750",Galle,2026-03-08
+1070,Desk,Furniture,3,"Rs. 26,210","Rs. 78,630",Negombo,2026-08-07
+1071,Jeans,Clothing,1,"Rs. 5,530","Rs. 5,530",Kandy,2026-01-19
+1072,Notebook,Stationery,10,Rs. 400,"Rs. 4,000",Jaffna,2026-03-07
+1073,Laptop,Electronics,1,"Rs. 82,700","Rs. 82,700",Colombo,2026-07-03
+1074,Office Chair,Furniture,4,"Rs. 15,500","Rs. 62,000",Galle,2026-07-28
+1075,Sneakers,Clothing,3,"Rs. 9,770","Rs. 29,310",Kandy,2026-03-25
+1076,Headphones,Electronics,7,"Rs. 7,240","Rs. 50,680",Galle,2026-07-30
+1077,Office Chair,Furniture,5,"Rs. 13,980","Rs. 69,900",Colombo,2026-07-15
+1078,Laptop,Electronics,1,"Rs. 80,280","Rs. 80,280",Jaffna,2026-06-29
+1079,Desk,Furniture,4,"Rs. 23,610","Rs. 94,440",Kandy,2026-07-24
+1080,Notebook,Stationery,5,Rs. 430,"Rs. 2,150",Galle,2026-06-29
+1081,Jeans,Clothing,7,"Rs. 6,220","Rs. 43,540",Negombo,2026-06-19
+1082,Laptop,Electronics,1,"Rs. 91,410","Rs. 91,410",Galle,2026-04-02
+1083,Sneakers,Clothing,5,"Rs. 8,170","Rs. 40,850",Negombo,2026-08-11
+1084,Notebook,Stationery,6,Rs. 390,"Rs. 2,340",Negombo,2026-03-01
+1085,Pen Pack,Stationery,10,Rs. 560,"Rs. 5,600",Colombo,2026-08-12
+1086,Laptop,Electronics,1,"Rs. 92,230","Rs. 92,230",Negombo,2026-04-11
+1087,Notebook,Stationery,7,Rs. 370,"Rs. 2,590",Galle,2026-06-10
+1088,Smartphone,Electronics,2,"Rs. 45,060","Rs. 90,120",Jaffna,2026-06-17
+1089,Pen Pack,Stationery,5,Rs. 610,"Rs. 3,050",Kandy,2026-08-04
+1090,Pen Pack,Stationery,3,Rs. 610,"Rs. 1,830",Galle,2026-07-27
+1091,Jeans,Clothing,1,"Rs. 5,760","Rs. 5,760",Kandy,2026-08-09
+1092,Sneakers,Clothing,10,"Rs. 9,280","Rs. 92,800",Jaffna,2026-08-15
+1093,T-Shirt,Clothing,4,"Rs. 2,510","Rs. 10,040",Kandy,2026-02-13
+1094,Desk,Furniture,3,"Rs. 25,820","Rs. 77,460",Negombo,2026-06-21
+1095,Smartphone,Electronics,2,"Rs. 46,560","Rs. 93,120",Kandy,2026-04-12
+1096,Headphones,Electronics,1,"Rs. 7,270","Rs. 7,270",Jaffna,2026-02-07
+1097,T-Shirt,Clothing,7,"Rs. 2,690","Rs. 18,830",Negombo,2026-04-10
+1098,Pen Pack,Stationery,8,Rs. 590,"Rs. 4,720",Kandy,2026-01-03
+1099,Smartphone,Electronics,2,"Rs. 42,470","Rs. 84,940",Negombo,2026-08-26
+1100,Laptop,Electronics,1,"Rs. 80,740","Rs. 80,740",Colombo,2026-08-22
+1101,Headphones,Electronics,8,"Rs. 8,270","Rs. 66,160",Negombo,2026-06-12
+1102,T-Shirt,Clothing,10,"Rs. 2,660","Rs. 26,600",Negombo,2026-08-07
+1103,Jeans,Clothing,8,"Rs. 6,480","Rs. 51,840",Jaffna,2026-08-19
+1104,Desk,Furniture,3,"Rs. 26,700","Rs. 80,100",Galle,2026-09-24
+1105,T-Shirt,Clothing,4,"Rs. 2,390","Rs. 9,560",Colombo,2026-05-27
+1106,Office Chair,Furniture,5,"Rs. 14,510","Rs. 72,550",Negombo,2026-02-11
+1107,Headphones,Electronics,3,"Rs. 7,570","Rs. 22,710",Kandy,2026-04-20
+1108,Smartphone,Electronics,2,"Rs. 44,170","Rs. 88,340",Negombo,2026-08-27
+1109,Pen Pack,Stationery,1,Rs. 560,Rs. 560,Jaffna,2026-07-19
+1110,Sneakers,Clothing,1,"Rs. 9,640","Rs. 9,640",Negombo,2026-07-14
+1111,T-Shirt,Clothing,1,"Rs. 2,720","Rs. 2,720",Galle,2026-07-19
+1112,Pen Pack,Stationery,9,Rs. 630,"Rs. 5,670",Negombo,2026-04-23
+1113,T-Shirt,Clothing,4,"Rs. 2,390","Rs. 9,560",Jaffna,2026-01-15
+1114,Pen Pack,Stationery,6,Rs. 620,"Rs. 3,720",Jaffna,2026-03-26
+1115,T-Shirt,Clothing,3,"Rs. 2,740","Rs. 8,220",Negombo,2026-01-14
+1116,Pen Pack,Stationery,10,Rs. 610,"Rs. 6,100",Colombo,2026-02-12
+1117,Pen Pack,Stationery,3,Rs. 640,"Rs. 1,920",Kandy,2026-01-26
+1118,Desk,Furniture,4,"Rs. 24,140","Rs. 96,560",Jaffna,2026-06-17
+1119,Notebook,Stationery,7,Rs. 380,"Rs. 2,660",Jaffna,2026-05-10
+1120,Smartphone,Electronics,2,"Rs. 40,670","Rs. 81,340",Negombo,2026-01-27
