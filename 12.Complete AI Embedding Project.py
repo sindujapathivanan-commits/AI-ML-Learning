@@ -5,12 +5,21 @@ import sentence_transformers
 #1.Python reads the documents
 print("\n==== 1.Python reads the documents ====") 
 from pypdf import PdfReader
+from pathlib import PdfReader
 
-pdf = PdfReader("12. Complete AI Embedding Project document - AI Knowledge Base Dataset_Simple.pdf")
+folder = Path(r"D:\Sinduja\Appton\Assaigments")
+matches = list(folder.glob("12. Complete AI Embedding Project*.pdf"))
+print(matches)  # shows the real filename(s)
+
+pdf = PdfReader(matches[0])
+
+# Read text from all PDF pages
+text = ""
 
 for page in pdf.pages:
-    text = page.extract_text()
-    print(text)
+    text += page.extract_text() + " "
+
+print("PDF text loaded")
 
 
 #2.Clean the text
