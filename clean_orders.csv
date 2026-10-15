@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Product,Category,Quantity,Price,City,Order Date
+ORD-0784,CUST-185,Desk,Furniture,6,230.0,Colombo,29.05.2026
+ORD-0192,CUST-052,Office Chair,Furniture,8,145.0,Jkt,2026-06-19
+ORD-0684,CUST-215,Smartphone,Electronics,3,520.0,Singapore,2026-08-13
+ORD-0408,CUST-163,Stapler,Stationery,8,12.0,Kandy,08 Sep 2026
+ORD-0263,CUST-081,Headphones,Electronics,10,79.99,Colombo,2026-03-21
+ORD-0040,CUST-110,Notebook,Stationery,9,3.5,Galle,06 Sep 2026
+ORD-0512,CUST-198,Headphones,Electronics,1,135.91332982086408,Jkt,2026-06-16
+ORD-0260,CUST-016,Jacket,Apparel,2,89.0,Colombo,2026-03-14
+ORD-0004,CUST-288,Notebook,Stationery,4,3.5,Jakarta,2026-01-14
+ORD-0160,CUST-119,Olive Oil,Grocery,5,11.2,Galle,2026-01-17
+ORD-0270,CUST-004,Stapler,Stationery,8,12.0,Galle,2026-03-03
+ORD-0891,CUST-292,Pen Set,Stationery,3,8.25,Jakarta,2026/10/06
+ORD-0939,CUST-258,Monitor,Electronics,5,210.0,Jakarta,2026-13-45
+ORD-0683,CUST-056,Headphones,Electronics,1,79.99,Galle,2026-05-12
+ORD-0058,CUST-215,Smartphone,Electronics,10,520.0,Jakarta,2026-02-11
+ORD-0049,CUST-247,Desk,Furniture,4,230.0,Singapore,2026-09-06
+ORD-0700,CUST-190,Desk,Furniture,3,230.0,Galle,2026-07-15
+ORD-0585,CUST-157,Desk,Furniture,4,230.0,Colombo,2026-07-22
+ORD-0322,CUST-256,Green Tea,Grocery,2,6.75,Colombo,2026-02-26
+ORD-0600,CUST-256,Jacket,Apparel,10,89.0,Colombo,2026-05-04
+ORD-0450,CUST-279,Laptop,Electronics,7,850.0,Galle,26.08.2026
+ORD-0371,CUST-126,Stapler,Stationery,7,12.0,Galle,2026-09-05
+ORD-0780,CUST-007,Running Shoes,Apparel,2,64.0,Kandy,2026-01-02
+ORD-0407,CUST-116,Pen Set,Stationery,5,8.25,Jakarta,2026-06-02
+ORD-0126,CUST-039,Jacket,Apparel,10,89.0,Sg,2026-04-12
+ORD-0948,CUST-094,T-Shirt,Apparel,4,15.99,Kandy,2026-05-18
+ORD-0855,CUST-133,Headphones,Electronics,7,79.99,Jakarta,2026-04-27
+ORD-0210,CUST-255,Laptop,Electronics,5,850.0,Jakarta,"Jan 26, 2026"
+ORD-0248,CUST-049,Green Tea,Grocery,6,6.75,Singapore,2026-08-01
+ORD-0111,CUST-153,Olive Oil,Grocery,7,11.2,Colombo,30 Jun 2026
+ORD-0830,CUST-122,Notebook,Stationery,9,3.5,Jakarta,2026-07-19
+ORD-0213,CUST-068,Green Tea,Grocery,2,6.75,Colombo,2026-07-06
+ORD-0705,CUST-275,Jacket,Apparel,8,89.0,Jkt,03.08.2026
+ORD-0603,CUST-009,Desk,Furniture,10,230.0,Singapore,2026-02-07
+ORD-0844,CUST-272,T-Shirt,Apparel,8,15.99,Galle,2026-04-22
+ORD-0879,CUST-010,Pen Set,Stationery,9,8.25,Colombo,2026-02-08
+ORD-0075,CUST-053,T-Shirt,Apparel,6,15.99,Kandy,2026-05-08
+ORD-0220,CUST-300,Green Tea,Grocery,7,6.75,Galle,2026-05-15
+ORD-0650,CUST-066,Headphones,Electronics,2,79.99,Kandy,2026-08-16
+ORD-0504,CUST-300,Jacket,Apparel,7,89.0,Sg,06.04.2026
+ORD-0555,CUST-072,Desk,Furniture,3,230.0,Singapor,"May 28, 2026"
+ORD-0802,CUST-046,Green Tea,Grocery,8,6.75,Jakarta,2026-08-18
+ORD-0565,CUST-179,Smartphone,Electronics,2,520.0,Singapore,2026-05-15
+ORD-0598,CUST-261,Stapler,Stationery,4,12.0,Kandy,2026-09-23
+ORD-0944,CUST-162,Jacket,Apparel,7,89.0,Kandy,2026-04-28
+ORD-0897,CUST-186,Office Chair,Furniture,10,145.0,Kandy,2026-03-22
+ORD-0714,CUST-291,Coffee Beans,Grocery,10,14.5,Kndy,17.03.2026
+ORD-0901,CUST-069,Office Chair,Furniture,9,145.0,Jakarta,2026-03-24
+ORD-0321,CUST-215,Monitor,Electronics,10,210.0,Colombo,03.05.2026
+ORD-0069,CUST-048,Olive Oil,Grocery,7,11.2,Galle,27.01.2026
+ORD-0127,CUST-062,Notebook,Stationery,10,3.5,Colombo,2026-06-04
+ORD-0298,CUST-169,Headphones,Electronics,3,79.99,Galle,2026-07-12
+ORD-0066,CUST-136,Stapler,Stationery,2,12.0,Colombo,2026-03-10
+ORD-0120,CUST-180,Laptop,Electronics,4,850.0,Jakarta,2026-01-27
+ORD-0239,CUST-263,Olive Oil,Grocery,10,11.2,Singapor,2026-07-05
+ORD-0626,CUST-150,Laptop,Electronics,10,850.0,Galle,2026-04-13
+ORD-0549,CUST-059,Jacket,Apparel,6,89.0,Jakarta,2026-07-20
+ORD-0937,CUST-233,Notebook,Stationery,7,3.5,Jakarta,"Apr 10, 2026"
+ORD-0003,CUST-048,Coffee Beans,Grocery,4,14.5,Colombo,2026-01-16
+ORD-0918,CUST-055,Running Shoes,Apparel,3,64.0,Singapore,"Jul 05, 2026"
+ORD-0754,CUST-212,Jacket,Apparel,1,89.0,Jakarta,2026-06-02
+ORD-0616,CUST-291,T-Shirt,Apparel,3,15.99,Colombo,2026-09-13
+ORD-0516,CUST-086,Olive Oil,Grocery,7,11.2,Kandy,2026-02-02
+ORD-0431,CUST-239,Notebook,Stationery,5,3.5,Colombo,2026-03-02
+ORD-0805,CUST-261,Laptop,Electronics,9,850.0,Colombo,05 Jun 2026
+ORD-0366,CUST-274,Pen Set,Stationery,2,8.25,Kandy,2026-06-05
+ORD-0380,CUST-256,Olive Oil,Grocery,5,11.2,Jakarta,2026-08-28
+ORD-0710,CUST-076,Headphones,Electronics,10,79.99,Singapore,2026-04-14
+ORD-0670,CUST-104,Olive Oil,Grocery,3,11.2,Colombo,2026-06-19
+ORD-0170,CUST-252,Pen Set,Stationery,2,8.25,Kandy,2026-08-12
+ORD-0624,CUST-239,Smartphone,Electronics,5,520.0,Singapore,2026-02-05
+ORD-0542,CUST-237,Running Shoes,Apparel,4,64.0,Jakarta,2026-08-07
+ORD-0550,CUST-153,T-Shirt,Apparel,10,15.99,Sg,2026/03/30
+ORD-0633,CUST-267,Headphones,Electronics,7,79.99,Colombo,"Apr 29, 2026"
+ORD-0192,CUST-052,Office Chair,Furniture,8,145.0,Jkt,2026-06-19
+ORD-0102,CUST-219,Running Shoes,Apparel,9,64.0,Singapore,16 Sep 2026
+ORD-0882,CUST-149,T-Shirt,Apparel,3,15.99,Singapore,2026-04-25
+ORD-0840,CUST-270,T-Shirt,Apparel,4,15.99,Colombo,06-12-2026
+ORD-0076,CUST-122,Coffee Beans,Grocery,3,14.5,Jakarta,2026-03-21
+ORD-0745,CUST-299,Jacket,Apparel,10,89.0,Singapore,19 Jan 2026
+ORD-0898,CUST-170,Monitor,Electronics,2,210.0,Kandy,2026-08-01
+ORD-0953,CUST-253,Olive Oil,Grocery,10,11.2,Galle,2026-06-11
+ORD-0772,CUST-214,Laptop,Electronics,8,850.0,Colombo,2026-03-01
+ORD-0218,CUST-188,Notebook,Stationery,2,3.5,Singapore,2026-10-13
+ORD-0735,CUST-068,Laptop,Electronics,3,850.0,Colombo,2026-08-31
+ORD-0884,CUST-123,T-Shirt,Apparel,2,15.99,Jakarta,2026-01-06
+ORD-0685,CUST-180,Coffee Beans,Grocery,9,14.5,Singapore,2026-07-13
+ORD-0839,CUST-155,Office Chair,Furniture,8,145.0,Galle,2026-01-27
+ORD-0387,CUST-148,Bookshelf,Furniture,2,98.5,Gale,2026-10-11
+ORD-0651,CUST-237,Running Shoes,Apparel,1,64.0,Colombo,2026-01-22
+ORD-0308,CUST-196,Green Tea,Grocery,9,6.75,Singapore,2026-05-25
+ORD-0340,CUST-041,Stapler,Stationery,6,12.0,Galle,2026-02-22
+ORD-0680,CUST-040,Olive Oil,Grocery,4,11.2,Kandy,2026-06-19
+ORD-0183,CUST-283,Olive Oil,Grocery,3,11.2,Kandy,2026-08-22
+ORD-0253,CUST-148,T-Shirt,Apparel,10,15.99,Singapore,01-27-2026
+ORD-0501,CUST-119,Smartphone,Electronics,2,520.0,Colombo,2026-08-12
+ORD-0849,CUST-165,Smartphone,Electronics,9,520.0,Galle,2026-04-09
+ORD-0567,CUST-085,T-Shirt,Apparel,10,15.99,Jakarta,2026-08-08
+ORD-0060,CUST-154,Pen Set,Stationery,8,8.25,Singapore,2026-03-09
+ORD-0568,CUST-031,Office Chair,Furniture,10,145.0,Kandy,2026-04-16
+ORD-0209,CUST-203,Stapler,Stationery,5,12.0,Galle,2026-01-12
+ORD-0873,CUST-162,Office Chair,Furniture,7,145.0,Jakarta,06.07.2026
+ORD-0576,CUST-298,Green Tea,Grocery,1,6.75,Singapore,2026-06-17
+ORD-0896,CUST-144,Notebook,Stationery,4,3.5,Colombo,2026-09-21
+ORD-0261,CUST-233,Bookshelf,Furniture,6,98.5,Singapore,2026-08-03
+ORD-0033,CUST-282,Office Chair,Furniture,3,145.0,Kandy,2026-09-01
+ORD-0662,CUST-184,Smartphone,Electronics,10,520.0,Singapor,0000-00-00
+ORD-0249,CUST-192,Coffee Beans,Grocery,3,14.5,Gale,2026-05-11
+ORD-0187,CUST-248,Office Chair,Furniture,6,145.0,Singapore,2026-10-03
+ORD-0635,CUST-291,Office Chair,Furniture,1,145.0,Singapor,2026-02-08
+ORD-0569,CUST-276,T-Shirt,Apparel,3,135.91332982086408,Jakarta,24 May 2026
+ORD-0614,CUST-220,Monitor,Electronics,5,210.0,Colombo,2026-06-21
+ORD-0765,CUST-024,Stapler,Stationery,5,12.0,Kandy,2026-02-03
+ORD-0596,CUST-127,Coffee Beans,Grocery,5,14.5,Galle,2026-03-13
+ORD-0580,CUST-176,Office Chair,Furniture,1,145.0,Jakarta,2026-09-06
+ORD-0909,CUST-215,Bookshelf,Furniture,abc,98.5,Jkt,2026/09/16
+ORD-0470,CUST-246,Bookshelf,Furniture,4,98.5,Kandy,2026-03-02
+ORD-0468,CUST-287,Smartphone,Electronics,4,520.0,Colombo,07/04/2026
+ORD-0813,CUST-056,Green Tea,Grocery,7,6.75,Kandy,2026/06/23
+ORD-0503,CUST-117,Pen Set,Stationery,6,8.25,Singapore,2026-09-09
+ORD-0575,CUST-143,Headphones,Electronics,6,79.99,Sg,21.09.2026
+ORD-0933,CUST-045,Notebook,Stationery,5,3.5,Colombo,22/03/2026
+ORD-0767,CUST-251,Coffee Beans,Grocery,6,14.5,Kandy,2026-06-25
+ORD-0182,CUST-213,Stapler,Stationery,8,12.0,Jkt,"May 20, 2026"
+ORD-0405,CUST-280,Green Tea,Grocery,0,6.75,Jakarta,2026-06-25
+ORD-0890,CUST-267,Smartphone,Electronics,-1,520.0,Galle,2026-02-22
+ORD-0615,CUST-255,Headphones,Electronics,8,79.99,Galle,2026-02-09
+ORD-0150,CUST-226,Stapler,Stationery,6,135.91332982086408,Singapor,03.09.2026
+ORD-0907,CUST-036,Desk,Furniture,4,230.0,Galle,2026-08-21
+ORD-0959,CUST-167,Jacket,Apparel,6,89.0,Jakarta,2026-02-21
+ORD-0438,CUST-077,Bookshelf,Furniture,3,98.5,Jakarta,02.10.2026
+ORD-0246,CUST-283,Coffee Beans,Grocery,4,14.5,Colombo,2026-02-28
+ORD-0872,CUST-157,Olive Oil,Grocery,10,11.2,Singapore,2026-06-18
+ORD-0301,CUST-071,Olive Oil,Grocery,3,11.2,Kandy,2026-04-26
+ORD-0399,CUST-195,Olive Oil,Grocery,3,11.2,Kandy,2026-09-26
+ORD-0571,CUST-031,Monitor,Electronics,5,210.0,Kandy,30/07/2026
+ORD-0658,CUST-196,Notebook,Stationery,6,3.5,Jakarta,2026-01-10
+ORD-0257,CUST-014,Notebook,Stationery,10,3.5,Singapor,2026-10-13
+ORD-0874,CUST-127,Desk,Furniture,4,230.0,Colombo,2026-06-10
+ORD-0599,CUST-123,Jacket,Apparel,8,89.0,Gale,2026-01-28
+ORD-0144,CUST-062,Monitor,Electronics,9,210.0,Kandy,2026-06-11
+ORD-0610,CUST-060,Notebook,Stationery,8,3.5,Colombo,2026-08-11
+ORD-0454,CUST-229,Headphones,Electronics,10,79.99,Colombo,"Jan 18, 2026"
+ORD-0084,CUST-223,Pen Set,Stationery,6,8.25,Colombo,2026-02-25
+ORD-0114,CUST-085,Jacket,Apparel,8,89.0,Galle,2026-07-27
+ORD-0190,CUST-163,Notebook,Stationery,8,3.5,Singapore,23 Jan 2026
+ORD-0292,CUST-225,Desk,Furniture,8,230.0,Clmb,2026-05-07
+ORD-0469,CUST-156,Olive Oil,Grocery,1,11.2,Kandy,2026/06/20
+ORD-0429,CUST-229,Pen Set,Stationery,5,8.25,Singapore,2026-05-01
+ORD-0642,CUST-081,Pen Set,Stationery,5,8.25,Colombo,2026-02-16
+ORD-0382,CUST-299,Green Tea,Grocery,6,135.91332982086408,Kandy,2026-04-21
+ORD-0168,CUST-138,Notebook,Stationery,10,3.5,Jakarta,11.01.2026
+ORD-0204,CUST-005,Pen Set,Stationery,8,8.25,Singapore,11/05/2026
+ORD-0665,CUST-091,Jacket,Apparel,4,89.0,Gale,"Mar 30, 2026"
+ORD-0430,CUST-134,Running Shoes,Apparel,6,135.91332982086408,Galle,2026-01-06
+ORD-0027,CUST-260,Pen Set,Stationery,2,8.25,Jakarta,2026/04/02
+ORD-0770,CUST-020,Desk,Furniture,7,230.0,Colombo,2026-07-07
+ORD-0117,CUST-195,Desk,Furniture,6,230.0,Colombo,2026-05-14
+ORD-0492,CUST-208,Headphones,Electronics,7,79.99,Colombo,2026-02-17
+ORD-0086,CUST-224,Bookshelf,Furniture,1,98.5,Galle,2026-01-23
+ORD-0065,CUST-005,Stapler,Stationery,9,12.0,Jakarta,2026-09-28
+ORD-0427,CUST-049,Running Shoes,Apparel,3,64.0,Colombo,2026-07-25
+ORD-0177,CUST-105,Olive Oil,Grocery,5,11.2,Singapore,2026-01-27
+ORD-0886,CUST-248,Desk,Furniture,6,230.0,Jakarta,2026/03/16
+ORD-0094,CUST-146,Olive Oil,Grocery,9,11.2,Kndy,2026-02-13
+ORD-0433,CUST-113,Stapler,Stationery,3,12.0,Gale,"Apr 24, 2026"
+ORD-0602,CUST-188,Office Chair,Furniture,9,145.0,Singapore,2026-08-04
+ORD-0637,CUST-163,Running Shoes,Apparel,8,64.0,Singapore,2026-06-17
+ORD-0228,CUST-228,T-Shirt,Apparel,4,15.99,Kandy,"Aug 16, 2026"
+ORD-0837,CUST-300,Pen Set,Stationery,5,8.25,Kandy,2026-03-24
+ORD-0769,CUST-012,Notebook,Stationery,10,3.5,Kandy,2026-04-19
+ORD-0440,CUST-229,Olive Oil,Grocery,1,11.2,Colombo,2026-09-19
+ORD-0317,CUST-072,Smartphone,Electronics,8,520.0,Galle,08-30-2026
+ORD-0189,CUST-293,Running Shoes,Apparel,7,135.91332982086408,Kandy,05-03-2026
+ORD-0014,CUST-274,Pen Set,Stationery,4,8.25,Colombo,2026-03-29
+ORD-0821,CUST-284,Stapler,Stationery,4,12.0,Jakarta,2026-06-10
+ORD-0826,CUST-075,Monitor,Electronics,1,135.91332982086408,Clmb,2026-07-15
+ORD-0388,CUST-282,Jacket,Apparel,5,89.0,Jakarta,2026-08-19
+ORD-0422,CUST-233,Monitor,Electronics,9,210.0,Galle,"May 26, 2026"
+ORD-0557,CUST-197,Olive Oil,Grocery,9,11.2,Kandy,2026-04-10
+ORD-0447,CUST-193,Jacket,Apparel,2,89.0,Singapore,2026-07-13
+ORD-0444,CUST-177,Headphones,Electronics,2,79.99,Colombo,2026-08-05
+ORD-0139,CUST-230,Notebook,Stationery,1,3.5,Singapore,09 Sep 2026
+ORD-0621,CUST-128,Coffee Beans,Grocery,7,14.5,Kandy,14 Jun 2026
+ORD-0159,CUST-210,Headphones,Electronics,8,79.99,Kandy,2026-01-02
+ORD-0025,CUST-175,Monitor,Electronics,2,210.0,Jakarta,2026-05-17
+ORD-0681,CUST-046,T-Shirt,Apparel,6,15.99,Galle,2026-03-27
+ORD-0419,CUST-090,Notebook,Stationery,7,3.5,Jakarta,20 Jan 2026
+ORD-0517,CUST-248,Pen Set,Stationery,2,8.25,Singapore,2026-06-03
+ORD-0510,CUST-263,Green Tea,Grocery,7,6.75,Jakarta,2026-10-12
+ORD-0674,CUST-166,Monitor,Electronics,3,210.0,Galle,2026-06-04
+ORD-0386,CUST-027,T-Shirt,Apparel,10,15.99,Colombo,2026-07-25
+ORD-0108,CUST-209,Bookshelf,Furniture,6,98.5,Colombo,2026-08-01
+ORD-0935,CUST-036,Bookshelf,Furniture,2,98.5,Jakarta,"Jan 08, 2026"
+ORD-0375,CUST-190,T-Shirt,Apparel,9,135.91332982086408,Sg,2026-03-08
+ORD-0493,CUST-029,Jacket,Apparel,1,89.0,Jkt,2026-09-01
+ORD-0736,CUST-157,Laptop,Electronics,5,850.0,Kandy,2026-05-10
+ORD-0205,CUST-038,Stapler,Stationery,8,12.0,Jakarta,2026-03-22
+ORD-0128,CUST-220,Smartphone,Electronics,6,520.0,Galle,2026-09-30
+ORD-0462,CUST-193,Coffee Beans,Grocery,3,135.91332982086408,Kandy,2026-06-03
+ORD-0490,CUST-192,Pen Set,Stationery,7,8.25,Singapore,2026-02-10
+ORD-0724,CUST-029,Olive Oil,Grocery,9,11.2,Jakarta,2026-07-11
+ORD-0690,CUST-016,Headphones,Electronics,7,79.99,Galle,2026-09-05
+ORD-0864,CUST-044,Jacket,Apparel,5,89.0,Jakarta,2026-10-08
+ORD-0825,CUST-217,Coffee Beans,Grocery,1,14.5,Jakarta,2026-05-27
+ORD-0649,CUST-039,T-Shirt,Apparel,1,15.99,Colombo,2026-05-13
+ORD-0258,CUST-140,Pen Set,Stationery,5,8.25,Colombo,2026-04-03
+ORD-0695,CUST-219,Smartphone,Electronics,2,520.0,Galle,2026/01/02
+ORD-0361,CUST-265,Headphones,Electronics,6,79.99,Singapore,27 Aug 2026
+ORD-0876,CUST-184,Olive Oil,Grocery,5,11.2,Singapore,2026-08-17
+ORD-0070,CUST-171,Pen Set,Stationery,3,8.25,Colombo,02 Jan 2026
+ORD-0164,CUST-225,Desk,Furniture,2,230.0,Galle,2026-05-28
+ORD-0532,CUST-170,Smartphone,Electronics,7,520.0,Jakarta,24.07.2026
+ORD-0549,CUST-059,Jacket,Apparel,6,89.0,Jakarta,2026-07-20
+ORD-0573,CUST-073,Notebook,Stationery,10,3.5,Singapore,2026-09-08
+ORD-0401,CUST-078,Green Tea,Grocery,7,6.75,Galle,2026-08-03
+ORD-0122,CUST-123,Laptop,Electronics,3,850.0,Jakarta,2026/03/20
+ORD-0915,CUST-043,Pen Set,Stationery,5,135.91332982086408,Singapore,2026-04-30
+ORD-0908,CUST-056,Jacket,Apparel,1,89.0,Singapore,03-09-2026
+ORD-0643,CUST-076,Smartphone,Electronics,2,520.0,Kandy,2026-06-17
+ORD-0676,CUST-194,T-Shirt,Apparel,5,15.99,Kandy,03-31-2026
+ORD-0254,CUST-296,Stapler,Stationery,9,12.0,Galle,23.02.2026
+ORD-0747,CUST-088,T-Shirt,Apparel,9,15.99,Jakarta,2026-06-03
+ORD-0152,CUST-038,Headphones,Electronics,10,79.99,Singapore,2026-09-09
+ORD-0498,CUST-154,Office Chair,Furniture,3,145.0,Singapore,2026-02-09
+ORD-0746,CUST-274,Bookshelf,Furniture,8,98.5,Galle,2026-04-24
+ORD-0023,CUST-198,Coffee Beans,Grocery,7,14.5,Jkt,02/02/2026
+ORD-0940,CUST-132,Running Shoes,Apparel,9,64.0,Colombo,2026-09-20
+ORD-0888,CUST-022,Pen Set,Stationery,4,8.25,Galle,04-30-2026
+ORD-0806,CUST-187,Bookshelf,Furniture,1,98.5,Singapore,2026-06-24
+ORD-0750,CUST-158,Notebook,Stationery,7,3.5,Galle,2026-04-25
+ORD-0286,CUST-181,Pen Set,Stationery,9,8.25,Jakarta,2026-01-29
+ORD-0831,CUST-199,Stapler,Stationery,7,12.0,Clmb,2026-07-15
+ORD-0489,CUST-130,Bookshelf,Furniture,6,98.5,Jakarta,09-27-2026
+ORD-0041,CUST-125,Office Chair,Furniture,8,145.0,Jakarta,"Aug 31, 2026"
+ORD-0314,CUST-192,Smartphone,Electronics,4,520.0,Singapore,2026-09-15
+ORD-0097,CUST-234,Olive Oil,Grocery,7,11.2,Jakarta,2026-02-07
+ORD-0157,CUST-107,Smartphone,Electronics,4,520.0,Jakarta,20.02.2026
+ORD-0904,CUST-111,Laptop,Electronics,8,850.0,Galle,2026-02-13
+ORD-0725,CUST-260,Desk,Furniture,7,230.0,Colombo,2026-06-09
+ORD-0851,CUST-110,Laptop,Electronics,7,850.0,Colombo,2026-04-18
+ORD-0790,CUST-054,Office Chair,Furniture,7,145.0,Colombo,2026-03-23
+ORD-0910,CUST-020,Monitor,Electronics,9,210.0,Kandy,2026-09-01
+ORD-0011,CUST-149,Headphones,Electronics,2,79.99,Colombo,2026-04-27
+ORD-0441,CUST-213,Green Tea,Grocery,8,6.75,Kandy,20/09/2026
+ORD-0551,CUST-061,Headphones,Electronics,4,79.99,Kandy,10 Jun 2026
+ORD-0356,CUST-072,Notebook,Stationery,4,3.5,Colombo,13/04/2026
+ORD-0273,CUST-236,Smartphone,Electronics,2,520.0,Singapor,2026-01-10
+ORD-0796,CUST-247,Monitor,Electronics,6,210.0,Singapore,2026-05-08
+ORD-0425,CUST-173,Pen Set,Stationery,5,8.25,Kandy,2026-01-08
+ORD-0445,CUST-017,Smartphone,Electronics,5,520.0,Colombo,2026-08-30
+ORD-0646,CUST-128,Green Tea,Grocery,2,135.91332982086408,Jakarta,"Oct 09, 2026"
+ORD-0713,CUST-215,Green Tea,Grocery,2,6.75,Colombo,2026-09-25
+ORD-0107,CUST-197,Office Chair,Furniture,3,145.0,Kandy,2026-04-29
+ORD-0194,CUST-241,Coffee Beans,Grocery,5,14.5,Kandy,2026-02-08
+ORD-0434,CUST-192,Olive Oil,Grocery,7,11.2,Kandy,2026-08-21
+ORD-0656,CUST-032,Coffee Beans,Grocery,-5,14.5,Jakarta,2026-09-03
+ORD-0266,CUST-177,Bookshelf,Furniture,7,98.5,Jakarta,2026-02-28
+ORD-0272,CUST-037,Notebook,Stationery,7,3.5,Jakarta,2026-07-01
+ORD-0539,CUST-154,Green Tea,Grocery,1,6.75,Galle,2026-02-04
+ORD-0283,CUST-289,Desk,Furniture,10,230.0,Singapor,08-26-2026
+ORD-0617,CUST-053,T-Shirt,Apparel,10,15.99,Kandy,2026-05-11
+ORD-0910,CUST-020,Monitor,Electronics,9,210.0,Kandy,2026-09-01
+ORD-0165,CUST-140,Green Tea,Grocery,9,6.75,Gale,2026-07-26
+ORD-0071,CUST-283,Pen Set,Stationery,7,8.25,Kandy,2026-08-15
+ORD-0459,CUST-141,Notebook,Stationery,1,3.5,Singapore,2026-06-03
+ORD-0167,CUST-014,Running Shoes,Apparel,2,64.0,Jakarta,2026-05-09
+ORD-0773,CUST-130,Jacket,Apparel,8,89.0,Colombo,2026-10-08
+ORD-0303,CUST-193,Smartphone,Electronics,3,520.0,Galle,2026-03-09
+ORD-0640,CUST-062,Green Tea,Grocery,9,6.75,Galle,2026-07-28
+ORD-0453,CUST-124,Coffee Beans,Grocery,4,14.5,Jakarta,2026-01-09
+ORD-0798,CUST-254,Desk,Furniture,3,230.0,Jakarta,29/08/2026
+ORD-0478,CUST-256,Notebook,Stationery,9,3.5,Singapore,2026-05-06
+ORD-0505,CUST-127,Headphones,Electronics,2,79.99,Jakarta,2026-06-01
+ORD-0059,CUST-161,Running Shoes,Apparel,4,64.0,Galle,2026-04-15
+ORD-0917,CUST-193,Monitor,Electronics,4,210.0,Jakarta,2026-01-04
+ORD-0410,CUST-075,Jacket,Apparel,5,89.0,Singapore,2026-06-26
+ORD-0088,CUST-260,Running Shoes,Apparel,5,64.0,Colombo,2026-06-03
+ORD-0234,CUST-142,Running Shoes,Apparel,2.5,64.0,Kandy,2026-01-02
+ORD-0050,CUST-195,Jacket,Apparel,1,89.0,Colombo,2026-03-26
+ORD-0311,CUST-083,Monitor,Electronics,5,210.0,Galle,"Feb 12, 2026"
+ORD-0068,CUST-136,Bookshelf,Furniture,9,98.5,Galle,2026/04/15
+ORD-0868,CUST-282,Smartphone,Electronics,2,520.0,Jakarta,2026-08-25
+ORD-0900,CUST-125,Desk,Furniture,1,230.0,Singapore,2026/01/12
+ORD-0878,CUST-276,Headphones,Electronics,4,79.99,Galle,2026-03-13
+ORD-0125,CUST-160,Monitor,Electronics,10,210.0,Jakarta,2026-01-14
+ORD-0924,CUST-083,Monitor,Electronics,2,210.0,Kandy,2026-08-17
+ORD-0719,CUST-244,Running Shoes,Apparel,5,64.0,Kandy,2026-01-26
+ORD-0385,CUST-188,Coffee Beans,Grocery,7,14.5,Kandy,2026-05-16
+ORD-0399,CUST-195,Olive Oil,Grocery,3,11.2,Kandy,2026-09-26
+ORD-0958,CUST-007,Green Tea,Grocery,4,6.75,Galle,2026-01-05
+ORD-0306,CUST-274,Stapler,Stationery,4,12.0,Singapor,2026-04-30
+ORD-0390,CUST-074,Running Shoes,Apparel,4,64.0,Jakarta,2026/07/07
+ORD-0120,CUST-180,Laptop,Electronics,4,850.0,Jakarta,2026-01-27
+ORD-0383,CUST-254,Smartphone,Electronics,10,520.0,Colombo.,"May 25, 2026"
+ORD-0625,CUST-284,Stapler,Stationery,8,12.0,Galle,2026-02-14
+ORD-0235,CUST-090,Office Chair,Furniture,2,135.91332982086408,Jakarta,2026-05-09
+ORD-0561,CUST-290,Stapler,Stationery,8,12.0,Kandy,2026-08-23
+ORD-0871,CUST-100,Monitor,Electronics,6,210.0,Galle,2026-02-05
+ORD-0061,CUST-235,Running Shoes,Apparel,10,64.0,Colombo,2026-01-05
+ORD-0208,CUST-293,Monitor,Electronics,6,210.0,Kandy,07-15-2026
+ORD-0022,CUST-079,Headphones,Electronics,3,79.99,Colombo,2026-02-26
+ORD-0678,CUST-094,Jacket,Apparel,10,89.0,Jakarta,2026-01-17
+ORD-0348,CUST-272,Headphones,Electronics,6,79.99,Jakarta,2026-03-12
+ORD-0926,CUST-003,Smartphone,Electronics,2,520.0,Kandy,19.07.2026
+ORD-0770,CUST-020,Desk,Furniture,7,230.0,Colombo,2026-07-07
+ORD-0939,CUST-258,Monitor,Electronics,5,210.0,Jakarta,2026-13-45
+ORD-0231,CUST-011,Green Tea,Grocery,1,6.75,Colombo,04-19-2026
+ORD-0343,CUST-039,Coffee Beans,Grocery,7,14.5,Galle,2026-01-30
+ORD-0256,CUST-059,T-Shirt,Apparel,5,15.99,Jkt,2026-07-08
+ORD-0552,CUST-192,Stapler,Stationery,3,12.0,Colombo,2026-04-04
+ORD-0753,CUST-257,Headphones,Electronics,2,79.99,Singapor,10/04/2026
+ORD-0033,CUST-282,Office Chair,Furniture,3,145.0,Kandy,2026-09-01
+ORD-0782,CUST-119,Headphones,Electronics,8,79.99,Colombo,2026-05-12
+ORD-0885,CUST-229,Desk,Furniture,3,230.0,Jakarta,13 Mar 2026
+ORD-0123,CUST-239,Olive Oil,Grocery,5,11.2,Colombo,2026-04-22
+ORD-0304,CUST-225,Desk,Furniture,1,230.0,Kandy,2026-03-26
+ORD-0472,CUST-274,Stapler,Stationery,6,12.0,Singapore,2026-08-27
+ORD-0474,CUST-164,Green Tea,Grocery,4,6.75,Colombo,2026-08-29
+ORD-0019,CUST-127,Office Chair,Furniture,9,145.0,Galle,2026/03/13
+ORD-0743,CUST-164,Notebook,Stationery,3,3.5,Colombo,2026-07-26
+ORD-0338,CUST-137,Olive Oil,Grocery,2,11.2,Galle,2026/09/23
+ORD-0225,CUST-199,Notebook,Stationery,8,3.5,Jakarta,2026-03-11
+ORD-0214,CUST-090,Stapler,Stationery,4,12.0,Galle,2026-08-01
+ORD-0044,CUST-174,Monitor,Electronics,2,210.0,Colombo.,26.07.2026
+ORD-0779,CUST-107,Smartphone,Electronics,8,520.0,Jakarta,2026-09-12
+ORD-0358,CUST-067,T-Shirt,Apparel,10,15.99,Singapore,2026-10-10
+ORD-0323,CUST-074,Laptop,Electronics,5,850.0,Jakarta,2026-05-04
+ORD-0947,CUST-244,Headphones,Electronics,6,79.99,Jakarta,2026-04-02
+ORD-0377,CUST-073,Pen Set,Stationery,2,8.25,Singapore,2026-05-07
+ORD-0154,CUST-286,Headphones,Electronics,7,135.91332982086408,Kandy,2026-03-02
+ORD-0098,CUST-205,Bookshelf,Furniture,4,98.5,Singapore,2026-09-11
+ORD-0374,CUST-161,Running Shoes,Apparel,6,135.91332982086408,Jakarta,2026-03-15
+ORD-0021,CUST-261,T-Shirt,Apparel,8,15.99,Kandy,2026-03-12
+ORD-0913,CUST-118,Smartphone,Electronics,8,520.0,Jakarta,2026-08-08
+ORD-0612,CUST-255,Office Chair,Furniture,6,145.0,Clmb,25.03.2026
+ORD-0104,CUST-249,Notebook,Stationery,4,3.5,Galle,2026-09-24
+ORD-0506,CUST-195,Headphones,Electronics,3,79.99,Galle,2026-03-20
+ORD-0528,CUST-217,Notebook,Stationery,7,3.5,Galle,2026-03-20
+ORD-0236,CUST-184,Laptop,Electronics,4,850.0,Kandy,2026-01-08
+ORD-0042,CUST-050,Coffee Beans,Grocery,7,14.5,Kandy,2026-02-18
+ORD-0803,CUST-255,Green Tea,Grocery,1,6.75,Galle,2026-03-02
+ORD-0634,CUST-298,T-Shirt,Apparel,2,15.99,Singapore,2026-02-13
+ORD-0818,CUST-215,Running Shoes,Apparel,10,64.0,Jakarta,2026-07-16
+ORD-0047,CUST-282,Notebook,Stationery,2,3.5,Colombo,2026-08-15
+ORD-0846,CUST-196,Notebook,Stationery,2,3.5,Colombo,2026-06-14
+ORD-0648,CUST-102,Smartphone,Electronics,7,520.0,Kandy,2026-03-08
+ORD-0029,CUST-001,Desk,Furniture,10,230.0,Jakarta,2026-09-29
+ORD-0916,CUST-003,Coffee Beans,Grocery,1,14.5,Galle,07.04.2026
+ORD-0156,CUST-157,Stapler,Stationery,10,12.0,Jakarta,08/08/2026
+ORD-0350,CUST-266,Laptop,Electronics,7,850.0,Kandy,09-13-2026
+ORD-0420,CUST-254,Desk,Furniture,3,230.0,Colombo,2026-07-23
+ORD-0865,CUST-212,Bookshelf,Furniture,9,98.5,Galle,19/04/2026
+ORD-0275,CUST-208,Coffee Beans,Grocery,1,14.5,Galle,2026-02-28
+ORD-0887,CUST-119,Smartphone,Electronics,2,520.0,Kandy,2026-09-07
+ORD-0861,CUST-070,Desk,Furniture,7,230.0,Jakarta,23 Apr 2026
+ORD-0247,CUST-212,Coffee Beans,Grocery,6,14.5,Singapore,04-27-2026
+ORD-0859,CUST-045,Monitor,Electronics,5,210.0,Galle,2026-06-04
+ORD-0197,CUST-117,Headphones,Electronics,2,79.99,Kandy,2026-05-28
+ORD-0370,CUST-255,Coffee Beans,Grocery,9,14.5,Jakarta,2026-01-16
+ORD-0623,CUST-092,Monitor,Electronics,4,210.0,Jakarta,27/01/2026
+ORD-0403,CUST-288,Office Chair,Furniture,6,145.0,Jakarta,04-17-2026
+ORD-0413,CUST-071,Pen Set,Stationery,2,8.25,Jakarta,2026-05-20
+ORD-0348,CUST-272,Headphones,Electronics,6,79.99,Jakarta,2026-03-12
+ORD-0224,CUST-060,Smartphone,Electronics,2,520.0,Gale,2026-09-10
+ORD-0781,CUST-077,Monitor,Electronics,2,210.0,Jakarta,10/09/2026
+ORD-0406,CUST-099,Pen Set,Stationery,4,8.25,Jakarta,05 Sep 2026
+ORD-0524,CUST-144,Notebook,Stationery,7,3.5,Galle,2026-07-12
+ORD-0672,CUST-057,Office Chair,Furniture,9,145.0,Jakarta,14.03.2026
+ORD-0002,CUST-045,Office Chair,Furniture,10,145.0,Colombo,2026-10-07
+ORD-0295,CUST-198,Running Shoes,Apparel,5,64.0,Colombo,2026-10-13
+ORD-0879,CUST-010,Pen Set,Stationery,9,8.25,Colombo,2026-02-08
+ORD-0169,CUST-266,Smartphone,Electronics,8,520.0,Kandy,2026-08-29
+ORD-0894,CUST-247,T-Shirt,Apparel,10,15.99,Galle,2026-09-07
+ORD-0078,CUST-082,Coffee Beans,Grocery,2,14.5,Kandy,2026-05-17
+ORD-0137,CUST-265,Pen Set,Stationery,4,8.25,Jakarta,2026-01-06
+ORD-0200,CUST-221,Stapler,Stationery,3,12.0,Galle,2026-07-11
+ORD-0853,CUST-170,Office Chair,Furniture,1,145.0,Colombo,31/02/2026
+ORD-0020,CUST-299,Pen Set,Stationery,7,8.25,Jakarta,2026/08/08
+ORD-0694,CUST-252,Smartphone,Electronics,3,520.0,Singapore,2026-10-09
+ORD-0860,CUST-016,Green Tea,Grocery,8,6.75,Singapore,2026-07-22
+ORD-0335,CUST-025,Bookshelf,Furniture,6,98.5,Galle,2026-07-02
+ORD-0077,CUST-092,Desk,Furniture,6,230.0,Singapore,2026-01-13
+ORD-0255,CUST-115,Bookshelf,Furniture,2,98.5,Kandy,2026-09-04
+ORD-0010,CUST-296,Stapler,Stationery,4,135.91332982086408,Jakarta,2026-07-05
+ORD-0835,CUST-264,Headphones,Electronics,2,79.99,Kndy,30.03.2026
+ORD-0020,CUST-299,Pen Set,Stationery,7,8.25,Jakarta,2026/08/08
+ORD-0820,CUST-212,Green Tea,Grocery,10,135.91332982086408,Kndy,"Mar 12, 2026"
+ORD-0293,CUST-145,Desk,Furniture,7,230.0,Galle,2026/07/10
+ORD-0590,CUST-053,Jacket,Apparel,6,135.91332982086408,Colombo,2026-02-22
+ORD-0929,CUST-267,Smartphone,Electronics,-1,520.0,Singapore,2026-07-25
+ORD-0828,CUST-152,Pen Set,Stationery,2.5,8.25,Kandy,2026-02-01
+ORD-0583,CUST-082,Bookshelf,Furniture,5,98.5,Kandy,2026-06-04
+ORD-0418,CUST-031,Stapler,Stationery,2,12.0,Galle,2026-05-27
+ORD-0367,CUST-088,Desk,Furniture,10,230.0,Jkt,2026-03-20
+ORD-0227,CUST-144,Monitor,Electronics,1,210.0,Singapore,2026-07-28
+ORD-0760,CUST-220,Coffee Beans,Grocery,8,14.5,Singapore,2026-07-26
+ORD-0330,CUST-280,Office Chair,Furniture,6,145.0,Colombo,2026-06-30
+ORD-0315,CUST-115,Jacket,Apparel,1,89.0,Colombo,2026-07-11
+ORD-0723,CUST-109,Headphones,Electronics,7,79.99,Kandy,15/08/2026
+ORD-0221,CUST-242,T-Shirt,Apparel,1,15.99,Colombo,2026-04-30
+ORD-0847,CUST-145,Jacket,Apparel,1,89.0,Galle,2026-10-04
+ORD-0515,CUST-155,Desk,Furniture,5,230.0,Kandy,18/05/2026
+ORD-0663,CUST-127,Notebook,Stationery,4,3.5,Kandy,2026-02-21
+ORD-0543,CUST-222,Jacket,Apparel,7,89.0,Kandy,2026/04/06
+ORD-0449,CUST-115,Jacket,Apparel,1,89.0,Jakarta,2026-03-07
+ORD-0331,CUST-094,Desk,Furniture,3,230.0,Singapor,2026-09-03
+ORD-0415,CUST-212,Notebook,Stationery,0,3.5,Colombo,21 Feb 2026
+ORD-0202,CUST-196,Desk,Furniture,10,230.0,Kandy,2026-02-10
+ORD-0313,CUST-014,Notebook,Stationery,7,3.5,Singapore,28.06.2026
+ORD-0103,CUST-231,Green Tea,Grocery,5,135.91332982086408,Kandy,2026-09-01
+ORD-0739,CUST-004,Jacket,Apparel,9,135.91332982086408,Jakarta,2026-02-22
+ORD-0036,CUST-116,Green Tea,Grocery,2,6.75,Colombo,2026-05-07
+ORD-0226,CUST-080,T-Shirt,Apparel,7,15.99,Jakarta,2026-08-03
+ORD-0706,CUST-041,Notebook,Stationery,7,3.5,Singapor,06-03-2026
+ORD-0572,CUST-075,Office Chair,Furniture,6,145.0,Kandy,08 May 2026
+ORD-0417,CUST-245,Desk,Furniture,4,230.0,Singapore,2026-09-01
+ORD-0133,CUST-231,Notebook,Stationery,4,3.5,Colombo,2026-05-23
+ORD-0810,CUST-085,T-Shirt,Apparel,8,15.99,Colombo,24.01.2026
+ORD-0171,CUST-171,Olive Oil,Grocery,6,11.2,Galle,"Jul 29, 2026"
+ORD-0199,CUST-167,Stapler,Stationery,1,12.0,Colombo,0000-00-00
+ORD-0196,CUST-278,Jacket,Apparel,1,89.0,Galle,2026-09-07
+ORD-0689,CUST-083,Running Shoes,Apparel,2,64.0,Kandy,31/02/2026
+ORD-0398,CUST-027,Olive Oil,Grocery,10,11.2,Galle,"Apr 27, 2026"
+ORD-0867,CUST-093,Pen Set,Stationery,10,8.25,Kandy,2026-02-28
+ORD-0949,CUST-124,Olive Oil,Grocery,5,11.2,Kandy,2026-05-01
+ORD-0531,CUST-182,Headphones,Electronics,3,79.99,Colombo,2026-05-08
+ORD-0083,CUST-134,Running Shoes,Apparel,3,64.0,Colombo,2026-03-01
+ORD-0132,CUST-138,Olive Oil,Grocery,6,11.2,Singapore,2026-08-12
+ORD-0166,CUST-021,Olive Oil,Grocery,-5,11.2,Singapore,2026-02-11
+ORD-0622,CUST-293,Running Shoes,Apparel,6,64.0,Galle,2026-02-09
+ORD-0811,CUST-131,Office Chair,Furniture,10,145.0,Singapore,24.02.2026
+ORD-0934,CUST-208,Jacket,Apparel,10,89.0,Galle,2026-07-22
+ORD-0355,CUST-090,Stapler,Stationery,6,12.0,Galle,2026-03-22
+ORD-0219,CUST-275,Jacket,Apparel,2,89.0,Colombo,2026-05-16
+ORD-0644,CUST-263,Notebook,Stationery,1,3.5,Galle,2026-07-22
+ORD-0142,CUST-170,T-Shirt,Apparel,6,15.99,Singapore,"Oct 09, 2026"
+ORD-0233,CUST-111,Headphones,Electronics,4,79.99,Jakarta,2026/04/17
+ORD-0328,CUST-183,T-Shirt,Apparel,2,15.99,Galle,2026-01-09
+ORD-0703,CUST-177,Office Chair,Furniture,9,135.91332982086408,Colombo,"Feb 13, 2026"
+ORD-0815,CUST-272,Office Chair,Furniture,1,145.0,Sg,2026-01-03
+ORD-0533,CUST-133,Monitor,Electronics,4,210.0,Colombo,2026-02-20
+ORD-0726,CUST-089,Office Chair,Furniture,4,145.0,Jakarta,2026-01-15
+ORD-0577,CUST-033,Headphones,Electronics,9,79.99,Singapore,2026-07-03
+ORD-0659,CUST-177,Olive Oil,Grocery,10,11.2,Jakarta,2026-09-06
+ORD-0800,CUST-115,Pen Set,Stationery,2,8.25,Colombo,2026-09-17
+ORD-0057,CUST-297,Monitor,Electronics,10,210.0,Jakarta,2026-05-07
+ORD-0861,CUST-070,Desk,Furniture,7,230.0,Jakarta,23 Apr 2026
+ORD-0412,CUST-104,Pen Set,Stationery,9,8.25,Singapore,2026-04-20
+ORD-0802,CUST-046,Green Tea,Grocery,8,6.75,Jakarta,2026-08-18
+ORD-0332,CUST-151,Headphones,Electronics,4,79.99,Singapore,2026-01-19
+ORD-0740,CUST-153,T-Shirt,Apparel,2,15.99,Jakarta,2026-05-25
+ORD-0654,CUST-144,Bookshelf,Furniture,8,98.5,Kndy,2026-05-21
+ORD-0673,CUST-203,T-Shirt,Apparel,10,15.99,Colombo,11/07/2026
+ORD-0809,CUST-182,Notebook,Stationery,5,3.5,Colombo,24/06/2026
+ORD-0801,CUST-041,Jacket,Apparel,8,89.0,Singapore,2026-05-01
+ORD-0439,CUST-060,Running Shoes,Apparel,4,64.0,Jakarta,2026-08-15
+ORD-0045,CUST-275,Notebook,Stationery,8,3.5,Kandy,2026-04-08
+ORD-0062,CUST-110,Monitor,Electronics,9,210.0,Colombo,2026-10-03
+ORD-0153,CUST-289,Smartphone,Electronics,5,520.0,Kandy,2026-03-18
+ORD-0586,CUST-001,Coffee Beans,Grocery,0,135.91332982086408,Colombo,02-18-2026
+ORD-0892,CUST-040,Jacket,Apparel,9,89.0,Singapore,2026-07-07
+ORD-0712,CUST-142,Jacket,Apparel,9,89.0,Jakarta,2026-06-16
+ORD-0741,CUST-142,Olive Oil,Grocery,6,11.2,Colombo,2026-06-22
+ORD-0669,CUST-011,Smartphone,Electronics,999,520.0,Kandy,04-23-2026
+ORD-0564,CUST-127,Bookshelf,Furniture,5,98.5,Singapore,2026-02-22
+ORD-0337,CUST-096,Green Tea,Grocery,8,6.75,Singapore,2026-06-23
+ORD-0305,CUST-228,Coffee Beans,Grocery,10,14.5,Galle,2026-05-02
+ORD-0875,CUST-069,Coffee Beans,Grocery,6,135.91332982086408,Galle,07-04-2026
+ORD-0931,CUST-100,Bookshelf,Furniture,1,98.5,Jakarta,2026-05-27
+ORD-0832,CUST-007,Running Shoes,Apparel,5,64.0,Jakarta,28.01.2026
+ORD-0526,CUST-225,Laptop,Electronics,5,850.0,Singapore,2026-04-18
+ORD-0018,CUST-203,Running Shoes,Apparel,8,64.0,Kandy,2026-09-13
+ORD-0099,CUST-218,Office Chair,Furniture,4,145.0,Colombo,2026-02-24
+ORD-0789,CUST-086,Jacket,Apparel,2,89.0,Singapore,08-04-2026
+ORD-0653,CUST-089,Laptop,Electronics,6,850.0,Singapor,2026/08/07
+ORD-0372,CUST-031,Stapler,Stationery,2,12.0,Singapore,2026-02-07
+ORD-0691,CUST-081,Desk,Furniture,1,230.0,Jakarta,2026-08-11
+ORD-0778,CUST-152,Bookshelf,Furniture,3,98.5,Galle,2026-07-29
+ORD-0229,CUST-279,T-Shirt,Apparel,6,15.99,Colombo,2026-07-08
+ORD-0766,CUST-269,Stapler,Stationery,6,12.0,Singapore,2026-09-24
+ORD-0618,CUST-002,Monitor,Electronics,1,210.0,Kandy,2026-09-18
+ORD-0954,CUST-262,Pen Set,Stationery,5,8.25,Singapore,2026-04-04
+ORD-0051,CUST-147,Jacket,Apparel,7,89.0,Galle,21 Aug 2026
+ORD-0715,CUST-147,Monitor,Electronics,9,210.0,Clmb,2026-02-21
+ORD-0007,CUST-048,Bookshelf,Furniture,7,98.5,Galle,2026-02-22
+ORD-0881,CUST-242,Pen Set,Stationery,3,8.25,Jakarta,"Oct 04, 2026"
+ORD-0920,CUST-142,Coffee Beans,Grocery,7,14.5,Jkt,2026-07-07
+ORD-0942,CUST-236,Notebook,Stationery,10,3.5,Galle,2026-08-23
+ORD-0502,CUST-168,Running Shoes,Apparel,1,64.0,Jakarta,"Jul 23, 2026"
+ORD-0006,CUST-143,Desk,Furniture,3,230.0,Singapore,2026-06-24
+ORD-0903,CUST-208,Pen Set,Stationery,10,8.25,Kandy,22.09.2026
+ORD-0161,CUST-120,Stapler,Stationery,5,12.0,Singapore,"Feb 06, 2026"
+ORD-0793,CUST-226,Olive Oil,Grocery,1,11.2,Colombo,2026-07-30
+ORD-0544,CUST-231,Laptop,Electronics,10,850.0,Jakarta,2026-04-12
+ORD-0880,CUST-109,Laptop,Electronics,1,850.0,Jakarta,2026-07-27
+ORD-0173,CUST-019,Stapler,Stationery,8,12.0,Singapore,2026-10-09
+ORD-0587,CUST-116,Olive Oil,Grocery,9,11.2,Colombo,"Mar 09, 2026"
+ORD-0520,CUST-195,Laptop,Electronics,6,850.0,Singapore,2026-06-20
+ORD-0395,CUST-273,Running Shoes,Apparel,8,64.0,Jakarta,2026-09-18
+ORD-0593,CUST-110,Desk,Furniture,3,230.0,Singapore,2026-06-29
+ORD-0345,CUST-035,Green Tea,Grocery,4,6.75,Colombo,2026-03-06
+ORD-0629,CUST-120,Laptop,Electronics,-5,850.0,Singapore,2026-01-13
+ORD-0124,CUST-084,T-Shirt,Apparel,5,15.99,Kandy,2026-02-28
+ORD-0863,CUST-003,Office Chair,Furniture,10,145.0,Colombo,2026-01-22
+ORD-0346,CUST-291,T-Shirt,Apparel,-1,15.99,Galle,2026-07-16
+ORD-0396,CUST-189,Stapler,Stationery,6,12.0,Singapore,09.01.2026
+ORD-0237,CUST-136,Running Shoes,Apparel,1,64.0,Colombo,03-31-2026
+ORD-0836,CUST-143,Jacket,Apparel,9,89.0,Colombo,2026-08-08
+ORD-0300,CUST-110,T-Shirt,Apparel,6,15.99,Galle,03/04/2026
+ORD-0737,CUST-236,Coffee Beans,Grocery,5,14.5,Singapore,28/06/2026
+ORD-0262,CUST-167,Desk,Furniture,10,230.0,Galle,2026-06-09
+ORD-0956,CUST-017,Coffee Beans,Grocery,9,14.5,Singapore,2026-10-04
+ORD-0274,CUST-294,Running Shoes,Apparel,-5,64.0,Jakarta,08/08/2026
+ORD-0277,CUST-224,Coffee Beans,Grocery,10,135.91332982086408,Colombo,"May 05, 2026"
+ORD-0344,CUST-016,T-Shirt,Apparel,3,15.99,Jakarta,2026-03-23
+ORD-0906,CUST-262,Office Chair,Furniture,5,145.0,Jakarta,2026-04-04
+ORD-0848,CUST-229,T-Shirt,Apparel,8,15.99,Jakarta,2026-09-18
+ORD-0363,CUST-079,Smartphone,Electronics,5,520.0,Colombo,2026-09-23
+ORD-0748,CUST-242,Desk,Furniture,3,230.0,Galle,19/02/2026
+ORD-0043,CUST-240,T-Shirt,Apparel,1,15.99,Singapore,07-30-2026
+ORD-0324,CUST-124,Coffee Beans,Grocery,10,14.5,Colombo,30.06.2026
+ORD-0816,CUST-261,Coffee Beans,Grocery,3,14.5,Jkt,2026-09-05
+ORD-0460,CUST-254,Desk,Furniture,1,230.0,Singapore,12/10/2026
+ORD-0667,CUST-253,Office Chair,Furniture,9,145.0,Jakarta,2026-04-07
+ORD-0013,CUST-182,T-Shirt,Apparel,4,15.99,Kndy,2026-07-09
+ORD-0761,CUST-274,Jacket,Apparel,4,89.0,Colombo,20 Jan 2026
+ORD-0608,CUST-168,Bookshelf,Furniture,7,98.5,Kandy,2026-10-02
+ORD-0269,CUST-071,Bookshelf,Furniture,5,98.5,Galle,2026-04-19
+ORD-0486,CUST-272,Coffee Beans,Grocery,5,14.5,Colombo,yesterday
+ORD-0720,CUST-156,T-Shirt,Apparel,5,15.99,Colombo,2026-06-22
+ORD-0738,CUST-267,Bookshelf,Furniture,10,98.5,Singapore,2026/06/04
+ORD-0240,CUST-114,Monitor,Electronics,10,210.0,Singapore,2026-09-15
+ORD-0950,CUST-128,Bookshelf,Furniture,10,98.5,Kandy,2026-04-14
+ORD-0309,CUST-071,Coffee Beans,Grocery,5,14.5,Kandy,2026-04-13
+ORD-0488,CUST-077,Monitor,Electronics,4,210.0,Colombo,2026-09-26
+ORD-0409,CUST-148,T-Shirt,Apparel,2,15.99,Jakarta,2026-05-21
+ORD-0476,CUST-134,Notebook,Stationery,9,3.5,Kandy,2026-01-09
+ORD-0786,CUST-184,Office Chair,Furniture,8,145.0,Kandy,2026-06-18
+ORD-0054,CUST-258,Smartphone,Electronics,9,520.0,Colombo,2026-09-02
+ORD-0943,CUST-133,Laptop,Electronics,2,850.0,Singapore,2026-03-01
+ORD-0271,CUST-195,Coffee Beans,Grocery,9,14.5,Kandy,2026-03-08
+ORD-0938,CUST-209,Laptop,Electronics,9,850.0,Galle,2026-03-31
+ORD-0354,CUST-282,Running Shoes,Apparel,9,64.0,Galle,2026-02-03
+ORD-0216,CUST-247,Pen Set,Stationery,5,135.91332982086408,Kandy,2026-05-12
+ORD-0630,CUST-001,T-Shirt,Apparel,7,15.99,Colombo,2026-06-21
+ORD-0451,CUST-236,Jacket,Apparel,6,89.0,Kandy,07.05.2026
+ORD-0316,CUST-075,Running Shoes,Apparel,3,64.0,Colombo.,2026-06-21
+ORD-0870,CUST-066,Olive Oil,Grocery,2.5,135.91332982086408,Galle,2026-07-02
+ORD-0423,CUST-240,Olive Oil,Grocery,5,11.2,Kndy,"Sep 16, 2026"
+ORD-0508,CUST-185,Laptop,Electronics,5,850.0,Galle,2026-08-16
+ORD-0668,CUST-020,Stapler,Stationery,2,12.0,Kandy,2026-09-09
+ORD-0149,CUST-053,Stapler,Stationery,2,12.0,Kandy,09/09/2026
+ORD-0657,CUST-215,Pen Set,Stationery,4,8.25,Singapore,12/03/2026
+ORD-0604,CUST-111,Headphones,Electronics,1,79.99,Colombo,2026-05-15
+ORD-0034,CUST-109,Pen Set,Stationery,9,8.25,Jakarta,"Aug 05, 2026"
+ORD-0541,CUST-283,Notebook,Stationery,3,3.5,Jakarta,2026-03-31
+ORD-0186,CUST-297,Laptop,Electronics,8,850.0,Galle,2026-06-02
+ORD-0579,CUST-173,Pen Set,Stationery,9,8.25,Galle,"May 26, 2026"
+ORD-0763,CUST-116,Laptop,Electronics,6,850.0,Colombo,2026/05/08
+ORD-0268,CUST-029,Smartphone,Electronics,1,520.0,Kandy,2026-07-22
+ORD-0585,CUST-157,Desk,Furniture,4,230.0,Colombo,2026-07-22
+ORD-0697,CUST-150,Laptop,Electronics,2,850.0,Kandy,2026-03-29
+ORD-0817,CUST-199,Desk,Furniture,10,230.0,Kandy,2026-03-02
+ORD-0155,CUST-231,Notebook,Stationery,8,3.5,Jkt,2026-07-14
+ORD-0179,CUST-082,Laptop,Electronics,5,850.0,Jakarta,2026-05-03
+ORD-0170,CUST-252,Pen Set,Stationery,2,8.25,Kandy,2026-08-12
+ORD-0015,CUST-139,Desk,Furniture,9,230.0,Singapore,2026-07-14
+ORD-0264,CUST-227,Smartphone,Electronics,7,520.0,Colombo,20 May 2026
+ORD-0282,CUST-079,Pen Set,Stationery,2,8.25,Kandy,2026-03-30
+ORD-0288,CUST-040,Smartphone,Electronics,2,520.0,Galle,2026-05-27
+ORD-0952,CUST-278,Olive Oil,Grocery,1,11.2,Jakarta,2026-01-04
+ORD-0259,CUST-093,Running Shoes,Apparel,3,64.0,Galle,2026-01-04
+ORD-0285,CUST-227,Green Tea,Grocery,5,6.75,Colombo,2026-08-29
+ORD-0079,CUST-114,Jacket,Apparel,4,89.0,Colombo,2026-08-29
+ORD-0518,CUST-254,T-Shirt,Apparel,10,15.99,Galle,2026-05-07
+ORD-0130,CUST-186,Olive Oil,Grocery,8,11.2,Colombo,2026-08-10
+ORD-0085,CUST-060,Running Shoes,Apparel,7,64.0,Singapore,2026-09-19
+ORD-0497,CUST-009,Smartphone,Electronics,4,520.0,Kandy,11.06.2026
+ORD-0919,CUST-134,Coffee Beans,Grocery,9,14.5,Jakarta,2026-05-10
+ORD-0028,CUST-079,Stapler,Stationery,6,12.0,Jakarta,2026-04-12
+ORD-0721,CUST-117,Pen Set,Stationery,3,8.25,Singapore,2026-02-20
+ORD-0053,CUST-032,Smartphone,Electronics,6,520.0,Jakarta,2026-10-05
+ORD-0174,CUST-166,Headphones,Electronics,2,79.99,Galle,2026-05-10
+ORD-0485,CUST-004,Olive Oil,Grocery,9,135.91332982086408,Singapor,2026-01-09
+ORD-0733,CUST-293,Jacket,Apparel,4,89.0,Clmb,2026-03-25
+ORD-0267,CUST-270,Monitor,Electronics,5,210.0,Galle,2026-09-07
+ORD-0578,CUST-109,Jacket,Apparel,8,89.0,Kandy,2026-08-08
+ORD-0709,CUST-022,Bookshelf,Furniture,7,98.5,Kandy,2026-03-06
+ORD-0037,CUST-118,Running Shoes,Apparel,10,64.0,Colombo,yesterday
+ORD-0172,CUST-211,Monitor,Electronics,999,210.0,Kandy,2026-06-18
+ORD-0297,CUST-201,Office Chair,Furniture,3,145.0,Galle,2026-06-08
+ORD-0699,CUST-279,Olive Oil,Grocery,7,11.2,Galle,2026-02-16
+ORD-0362,CUST-067,Office Chair,Furniture,7,145.0,Jakarta,2026-04-04
+ORD-0432,CUST-160,Desk,Furniture,-1,135.91332982086408,Singapore,2026-09-15
+ORD-0340,CUST-041,Stapler,Stationery,6,12.0,Galle,2026-02-22
+ORD-0756,CUST-093,Green Tea,Grocery,2,6.75,Kandy,2026-06-11
+ORD-0601,CUST-185,Headphones,Electronics,6,79.99,Jakarta,2026-01-07
+ORD-0525,CUST-280,T-Shirt,Apparel,3,15.99,Colombo,2026-04-13
+ORD-0812,CUST-202,Bookshelf,Furniture,4,98.5,Kandy,2026-03-03
+ORD-0481,CUST-031,Olive Oil,Grocery,9,11.2,Kandy,"Oct 05, 2026"
+ORD-0664,CUST-113,Pen Set,Stationery,10,8.25,Jakarta,2026-01-29
+ORD-0548,CUST-161,Pen Set,Stationery,10,8.25,Singapore,2026-09-28
+ORD-0352,CUST-063,Stapler,Stationery,-1,135.91332982086408,Singapore,2026-04-13
+ORD-0695,CUST-219,Smartphone,Electronics,2,520.0,Galle,2026/01/02
+ORD-0854,CUST-092,Headphones,Electronics,5,79.99,Colombo,yesterday
+ORD-0594,CUST-112,Coffee Beans,Grocery,2,14.5,Jakarta,2026-08-15
+ORD-0553,CUST-295,Jacket,Apparel,7,89.0,Sg,2026-03-12
+ORD-0759,CUST-067,Desk,Furniture,10,230.0,Singapore,2026-02-15
+ORD-0484,CUST-192,Bookshelf,Furniture,1,98.5,Jakarta,2026-08-22
+ORD-0252,CUST-063,Smartphone,Electronics,7,520.0,Jakarta,06-18-2026
+ORD-0091,CUST-001,Stapler,Stationery,5,12.0,Singapore,08/10/2026
+ORD-0536,CUST-060,Stapler,Stationery,3,12.0,Singapore,2026-02-13
+ORD-0845,CUST-229,Laptop,Electronics,4,850.0,Colombo,2026-06-27
+ORD-0530,CUST-185,Coffee Beans,Grocery,9,135.91332982086408,Jakarta,2026-01-19
+ORD-0827,CUST-083,Smartphone,Electronics,5,520.0,Kndy,2026-05-17
+ORD-0287,CUST-232,Headphones,Electronics,1,135.91332982086408,Galle,25.08.2026
+ORD-0540,CUST-056,Monitor,Electronics,3,210.0,Colombo,2026-06-25
+ORD-0146,CUST-152,Stapler,Stationery,4,12.0,Colombo,2026-04-10
+ORD-0082,CUST-261,Headphones,Electronics,2,79.99,Galle,06-29-2026
+ORD-0776,CUST-145,Monitor,Electronics,2,210.0,Jakarta,2026-03-02
+ORD-0757,CUST-161,Olive Oil,Grocery,1,135.91332982086408,Galle,01.04.2026
+ORD-0807,CUST-287,Notebook,Stationery,10,3.5,Singapore,2026-06-19
+ORD-0378,CUST-215,Smartphone,Electronics,4,520.0,Galle,2026-07-16
+ORD-0815,CUST-272,Office Chair,Furniture,1,145.0,Sg,2026-01-03
+ORD-0841,CUST-259,Desk,Furniture,3,230.0,Jakarta,2026-02-04
+ORD-0642,CUST-081,Pen Set,Stationery,5,8.25,Colombo,2026-02-16
+ORD-0035,CUST-192,Bookshelf,Furniture,8,98.5,Gale,2026-07-24
+ORD-0376,CUST-239,Monitor,Electronics,2,210.0,Galle,2026-05-04
+ORD-0591,CUST-196,T-Shirt,Apparel,3,15.99,Galle,2026-03-12
+ORD-0560,CUST-141,Notebook,Stationery,4,3.5,Galle,2026-01-17
+ORD-0421,CUST-153,Stapler,Stationery,10,12.0,Colombo,2026-01-05
+ORD-0276,CUST-186,Running Shoes,Apparel,2,135.91332982086408,Kandy,2026-08-24
+ORD-0514,CUST-087,Notebook,Stationery,7,3.5,Jakarta,09-24-2026
+ORD-0243,CUST-042,Olive Oil,Grocery,6,11.2,Singapore,2026-02-07
+ORD-0511,CUST-182,Monitor,Electronics,9,135.91332982086408,Colombo,2026-02-15
+ORD-0718,CUST-020,Office Chair,Furniture,7,135.91332982086408,Jakarta,2026-07-25
+ORD-0008,CUST-136,Monitor,Electronics,1,210.0,Galle,2026-06-26
+ORD-0620,CUST-019,Jacket,Apparel,-5,89.0,Kandy,2026/04/02
+ORD-0647,CUST-063,Green Tea,Grocery,999,6.75,Colombo,2026-03-13
+ORD-0191,CUST-254,Jacket,Apparel,1,89.0,Singapore,19/03/2026
+ORD-0232,CUST-290,Running Shoes,Apparel,4,64.0,Kandy,2026/03/06
+ORD-0364,CUST-116,Desk,Furniture,6,230.0,Kandy,"Jun 15, 2026"
+ORD-0671,CUST-031,Running Shoes,Apparel,1,64.0,Kandy,2026/06/15
+ORD-0461,CUST-164,T-Shirt,Apparel,7,15.99,Singapor,2026-09-26
+ORD-0566,CUST-108,Green Tea,Grocery,10,6.75,Colombo,2026-05-02
+ORD-0435,CUST-127,Olive Oil,Grocery,10,135.91332982086408,Jakarta,2026-04-22
+ORD-0522,CUST-246,Running Shoes,Apparel,6,64.0,Jakarta,2026-04-13
+ORD-0466,CUST-190,Running Shoes,Apparel,2,64.0,Colombo,2026-08-19
+ORD-0185,CUST-260,Pen Set,Stationery,5,135.91332982086408,Singapore,2026-06-24
+ORD-0639,CUST-085,Monitor,Electronics,8,210.0,Kandy,2026-02-24
+ORD-0436,CUST-271,Headphones,Electronics,6,79.99,Jakarta,2026-08-17
+ORD-0799,CUST-124,Headphones,Electronics,6,79.99,Singapore,2026-06-14
+ORD-0852,CUST-223,Monitor,Electronics,2,210.0,Kandy,2026-10-03
+ORD-0426,CUST-219,Bookshelf,Furniture,9,98.5,Kandy,2026-07-27
+ORD-0141,CUST-243,Stapler,Stationery,9,12.0,Jakarta,"Jul 08, 2026"
+ORD-0087,CUST-036,Bookshelf,Furniture,6,98.5,Galle,2026-08-09
+ORD-0140,CUST-208,Headphones,Electronics,4,79.99,Galle,2026-04-24
+ORD-0448,CUST-092,Office Chair,Furniture,9,145.0,Galle,2026-03-02
+ORD-0755,CUST-176,Office Chair,Furniture,7,145.0,Kandy,2026-04-13
+ORD-0823,CUST-166,Desk,Furniture,2,230.0,Jakarta,2026-10-05
+ORD-0017,CUST-034,Running Shoes,Apparel,4,64.0,Singapore,2026-05-18
+ORD-0074,CUST-187,Office Chair,Furniture,-1,145.0,Colombo.,2026-06-07
+ORD-0012,CUST-143,Notebook,Stationery,8,3.5,Colombo,2026-07-14
+ORD-0138,CUST-251,Headphones,Electronics,9,135.91332982086408,Kandy,"Jul 28, 2026"
+ORD-0129,CUST-007,Headphones,Electronics,7,79.99,Jakarta,2026-06-24
+ORD-0296,CUST-171,Pen Set,Stationery,2,8.25,Jakarta,2026-03-18
+ORD-0819,CUST-176,Notebook,Stationery,5,3.5,Galle,2026-07-23
+ORD-0428,CUST-128,Office Chair,Furniture,1,145.0,Singapore,06-15-2026
+ORD-0369,CUST-108,Smartphone,Electronics,10,520.0,Jakarta,2026/05/16
+ORD-0775,CUST-071,Monitor,Electronics,7,210.0,Jakarta,2026-05-19
+ORD-0749,CUST-172,Pen Set,Stationery,2,8.25,Jakarta,2026-04-04
+ORD-0193,CUST-008,Monitor,Electronics,3,210.0,Jakarta,22/08/2026
+ORD-0730,CUST-229,Notebook,Stationery,3,3.5,Galle,08 Sep 2026
+ORD-0814,CUST-231,Smartphone,Electronics,8,520.0,Jakarta,2026-03-05
+ORD-0762,CUST-272,T-Shirt,Apparel,4,15.99,Colombo,2026-06-14
+ORD-0217,CUST-039,Running Shoes,Apparel,3,64.0,Colombo,2026-08-28
+ORD-0559,CUST-290,Olive Oil,Grocery,1,11.2,Kandy,2026-02-12
+ORD-0708,CUST-089,Office Chair,Furniture,3,145.0,Colombo,2026-08-18
+ORD-0391,CUST-024,Jacket,Apparel,-5,135.91332982086408,Jakarta,2026-01-21
+ORD-0744,CUST-133,Laptop,Electronics,7,850.0,Singapore,2026-06-01
+ORD-0392,CUST-266,Office Chair,Furniture,8,145.0,Galle,2026/08/31
+ORD-0326,CUST-260,Headphones,Electronics,9,79.99,Jakarta,06 Oct 2026
+ORD-0641,CUST-158,T-Shirt,Apparel,8,15.99,Kandy,20.08.2026
+ORD-0404,CUST-161,Olive Oil,Grocery,3,11.2,Jakarta,12/07/2026
+ORD-0843,CUST-170,T-Shirt,Apparel,6,15.99,Kandy,2026-04-20
+ORD-0443,CUST-112,Jacket,Apparel,10,135.91332982086408,Galle,2026-01-02
+ORD-0241,CUST-235,Smartphone,Electronics,1,520.0,Jakarta,2026-06-04
+ORD-0032,CUST-036,Headphones,Electronics,9,79.99,Colombo,2026-09-06
+ORD-0289,CUST-022,Jacket,Apparel,8,89.0,Singapore,2026-10-11
+ORD-0113,CUST-249,Notebook,Stationery,1,3.5,Galle,2026-08-12
+ORD-0368,CUST-015,Running Shoes,Apparel,2,64.0,Jakarta,"Jan 22, 2026"
+ORD-0723,CUST-109,Headphones,Electronics,7,79.99,Kandy,15/08/2026
+ORD-0727,CUST-017,Bookshelf,Furniture,8,98.5,Colombo,08 May 2026
+ORD-0055,CUST-042,Desk,Furniture,3,230.0,Colombo,2026/09/18
+ORD-0032,CUST-036,Headphones,Electronics,9,79.99,Colombo,2026-09-06
+ORD-0379,CUST-098,Desk,Furniture,3,230.0,Galle,2026-06-10
+ORD-0064,CUST-225,T-Shirt,Apparel,9,15.99,Galle,22/03/2026
+ORD-0302,CUST-260,Headphones,Electronics,9,79.99,Galle,2026-02-21
+ORD-0385,CUST-188,Coffee Beans,Grocery,7,14.5,Kandy,2026-05-16
+ORD-0414,CUST-272,Notebook,Stationery,4,3.5,Kandy,2026-01-26
+ORD-0523,CUST-150,Desk,Furniture,8,230.0,Singapore,2026-06-13
+ORD-0627,CUST-238,Stapler,Stationery,6,12.0,Jakarta,2026/05/05
+ORD-0009,CUST-194,Green Tea,Grocery,2,6.75,Jakarta,05/03/2026
+ORD-0597,CUST-146,Headphones,Electronics,1,79.99,Kandy,2026-10-11
+ORD-0092,CUST-297,Stapler,Stationery,10,12.0,Kndy,2026-08-09
+ORD-0353,CUST-228,Headphones,Electronics,2,79.99,Sg,2026-03-30
+ORD-0768,CUST-010,Bookshelf,Furniture,4,98.5,Kandy,2026-07-26
+ORD-0312,CUST-224,Green Tea,Grocery,2,6.75,Jakarta,17 Mar 2026
+ORD-0696,CUST-103,Stapler,Stationery,2,12.0,Jakarta,2026-09-03
+ORD-0584,CUST-043,Headphones,Electronics,6,79.99,Galle,2026-05-09
+ORD-0307,CUST-189,Stapler,Stationery,10,12.0,Singapor,2026-04-10
+ORD-0325,CUST-269,Coffee Beans,Grocery,999,14.5,Kandy,2026-02-13
+ORD-0698,CUST-204,Olive Oil,Grocery,8,11.2,Colombo,2026-06-07
+ORD-0951,CUST-062,T-Shirt,Apparel,-1,15.99,Kandy,2026-02-24
+ORD-0201,CUST-290,Notebook,Stationery,3,135.91332982086408,Jakarta,2026-07-30
+ORD-0458,CUST-074,Running Shoes,Apparel,9,64.0,Kandy,2026-06-04
+ORD-0923,CUST-204,Stapler,Stationery,3,12.0,Jakarta,2026-06-26
+ORD-0631,CUST-272,Stapler,Stationery,4,12.0,Colombo,2026-04-16
+ORD-0400,CUST-098,Notebook,Stationery,1,3.5,Colombo.,2026-02-26
+ORD-0299,CUST-186,Headphones,Electronics,2,79.99,Singapore,18/09/2026
+ORD-0545,CUST-110,Coffee Beans,Grocery,4,14.5,Singapore,03.01.2026
+ORD-0464,CUST-214,Green Tea,Grocery,9,6.75,Clmb,2026-07-31
+ORD-0905,CUST-113,Olive Oil,Grocery,7,11.2,Singapore,2026/03/29
+ORD-0734,CUST-138,Notebook,Stationery,7,3.5,Kandy,2026-04-16
+ORD-0151,CUST-245,Desk,Furniture,2,230.0,Colombo,2026-05-10
+ORD-0001,CUST-126,Monitor,Electronics,4,210.0,Colombo,2026-05-21
+ORD-0652,CUST-203,Desk,Furniture,8,230.0,Jakarta,2026-08-10
+ORD-0595,CUST-197,Monitor,Electronics,6,210.0,Kandy,05 Mar 2026
+ORD-0143,CUST-129,Green Tea,Grocery,4,6.75,Galle,2026-06-06
+ORD-0223,CUST-072,Stapler,Stationery,1,12.0,Singapore,2026-03-01
+ORD-0093,CUST-227,Running Shoes,Apparel,4,64.0,Singapor,2026-08-15
+ORD-0063,CUST-036,Pen Set,Stationery,4,8.25,Kandy,2026-06-28
+ORD-0677,CUST-001,Stapler,Stationery,10,12.0,Kandy,01/04/2026
+ORD-0661,CUST-016,Running Shoes,Apparel,-5,64.0,Jkt,2026-04-23
+ORD-0507,CUST-055,Jacket,Apparel,2,89.0,Galle,2026-07-04
+ORD-0960,CUST-135,Pen Set,Stationery,4,8.25,Kandy,2026-10-08
+ORD-0389,CUST-202,Monitor,Electronics,6,210.0,Kandy,2026-02-19
+ORD-0752,CUST-028,Green Tea,Grocery,10,6.75,Colombo,2026-08-29
+ORD-0702,CUST-289,Pen Set,Stationery,1,8.25,Kandy,2026-05-18
+ORD-0112,CUST-113,Coffee Beans,Grocery,8,14.5,Jakarta,07.10.2026
+ORD-0613,CUST-065,Pen Set,Stationery,5,8.25,Kandy,2026-07-10
+ORD-0072,CUST-077,Laptop,Electronics,9,850.0,Colombo,2026-02-08
+ORD-0794,CUST-007,Headphones,Electronics,9,79.99,Galle,2026-06-10
+ORD-0316,CUST-075,Running Shoes,Apparel,3,64.0,Colombo.,2026-06-21
+ORD-0181,CUST-079,Monitor,Electronics,8,135.91332982086408,Singapore,2026-03-02
+ORD-0456,CUST-029,Notebook,Stationery,abc,3.5,Jakarta,2026-04-22
+ORD-0834,CUST-230,Bookshelf,Furniture,3,135.91332982086408,Kandy,31/05/2026
+ORD-0569,CUST-276,T-Shirt,Apparel,3,135.91332982086408,Jakarta,24 May 2026
+ORD-0791,CUST-093,Olive Oil,Grocery,10,11.2,Jakarta,2026-08-13
+ORD-0475,CUST-024,T-Shirt,Apparel,-5,15.99,Galle,2026-07-31
+ORD-0863,CUST-003,Office Chair,Furniture,10,145.0,Colombo,2026-01-22
+ORD-0862,CUST-192,Stapler,Stationery,1,12.0,Kandy,2026-06-02
+ORD-0902,CUST-029,Smartphone,Electronics,3,520.0,Jakarta,2026-03-17
+ORD-0499,CUST-277,Notebook,Stationery,6,3.5,Jakarta,2026-07-19
+ORD-0945,CUST-005,T-Shirt,Apparel,5,15.99,Jakarta,31/02/2026
+ORD-0729,CUST-064,Green Tea,Grocery,1,6.75,Jkt,2026-07-23
+ORD-0758,CUST-108,Laptop,Electronics,3,850.0,Singapore,2026-05-21
+ORD-0080,CUST-117,Green Tea,Grocery,4,6.75,Galle,2026-06-06
+ORD-0686,CUST-296,Jacket,Apparel,4,89.0,Colombo,2026-09-03
+ORD-0679,CUST-290,Running Shoes,Apparel,2,64.0,Jakarta,"Apr 24, 2026"
+ORD-0178,CUST-249,Office Chair,Furniture,2,145.0,Galle,2026-08-13
+ORD-0242,CUST-219,Smartphone,Electronics,2,135.91332982086408,Singapore,07-25-2026
+ORD-0771,CUST-025,Pen Set,Stationery,2,135.91332982086408,Jakarta,2026-01-25
+ORD-0558,CUST-213,Olive Oil,Grocery,8,11.2,Singapore,2026-09-09
+ORD-0351,CUST-229,Monitor,Electronics,4,210.0,Galle,2026-05-14
+ORD-0581,CUST-009,Smartphone,Electronics,2,520.0,Colombo,2026/08/24
+ORD-0446,CUST-216,Coffee Beans,Grocery,6,14.5,Kndy,2026-03-11
+ORD-0442,CUST-158,Smartphone,Electronics,1,520.0,Jakarta,2026-08-25
+ORD-0606,CUST-043,Coffee Beans,Grocery,9,14.5,Singapore,2026-07-25
+ORD-0711,CUST-045,Pen Set,Stationery,7,8.25,Galle,2026-02-04
+ORD-0214,CUST-090,Stapler,Stationery,4,12.0,Galle,2026-08-01
+ORD-0702,CUST-289,Pen Set,Stationery,1,8.25,Kandy,2026-05-18
+ORD-0068,CUST-136,Bookshelf,Furniture,9,98.5,Galle,2026/04/15
+ORD-0394,CUST-154,Running Shoes,Apparel,10,64.0,Kandy,2026-07-21
+ORD-0494,CUST-223,Desk,Furniture,6,230.0,Colombo,2026-09-13
+ORD-0163,CUST-037,Office Chair,Furniture,1,145.0,Galle,2026-03-14
+ORD-0562,CUST-138,Monitor,Electronics,9,210.0,Jkt,2026-02-28
+ORD-0250,CUST-044,Olive Oil,Grocery,2,11.2,Colombo,2026-02-16
+ORD-0636,CUST-150,Coffee Beans,Grocery,5,14.5,Kandy,2026-05-02
+ORD-0245,CUST-151,Running Shoes,Apparel,8,64.0,Singapore,2026-09-29
+ORD-0727,CUST-017,Bookshelf,Furniture,8,98.5,Colombo,08 May 2026
+ORD-0605,CUST-147,Smartphone,Electronics,9,520.0,Singapore,2026-09-17
+ORD-0411,CUST-178,Smartphone,Electronics,8,135.91332982086408,Galle,2026-02-10
+ORD-0548,CUST-161,Pen Set,Stationery,10,8.25,Singapore,2026-09-28
+ORD-0912,CUST-216,Laptop,Electronics,6,850.0,Singapore,2026-09-25
+ORD-0621,CUST-128,Coffee Beans,Grocery,7,14.5,Kandy,14 Jun 2026
+ORD-0883,CUST-047,Green Tea,Grocery,7,6.75,Jakarta,2026-09-19
+ORD-0666,CUST-181,Running Shoes,Apparel,10,64.0,Galle,15.01.2026
+ORD-0570,CUST-294,Running Shoes,Apparel,5,64.0,Galle,2026-05-29
+ORD-0334,CUST-130,Jacket,Apparel,1,89.0,Jakarta,2026-08-31
+ORD-0110,CUST-295,Jacket,Apparel,7,89.0,Jakarta,11 Jan 2026
+ORD-0732,CUST-146,Desk,Furniture,1,230.0,Galle,2026-02-16
+ORD-0416,CUST-003,Olive Oil,Grocery,9,11.2,Colombo,2026-03-12
+ORD-0930,CUST-225,Smartphone,Electronics,1,520.0,Kandy,2026-09-11
+ORD-0521,CUST-070,Green Tea,Grocery,5,6.75,Galle,09/08/2026
+ORD-0131,CUST-268,Office Chair,Furniture,5,145.0,Singapore,2026-04-01
+ORD-0589,CUST-037,Coffee Beans,Grocery,4,14.5,Kandy,2026-09-02
+ORD-0619,CUST-242,Laptop,Electronics,6,850.0,Kandy,2026-01-24
+ORD-0357,CUST-284,Olive Oil,Grocery,10,11.2,Colombo,2026-07-04
+ORD-0787,CUST-176,Pen Set,Stationery,3,8.25,Colombo,10 Jul 2026
+ORD-0290,CUST-257,Bookshelf,Furniture,3,98.5,Galle,2026-09-01
+ORD-0175,CUST-278,Jacket,Apparel,8,89.0,Jakarta,2026-01-01
+ORD-0473,CUST-263,Stapler,Stationery,8,12.0,Galle,04.07.2026
+ORD-0491,CUST-116,Green Tea,Grocery,5,6.75,Jakarta,0000-00-00
+ORD-0360,CUST-065,Coffee Beans,Grocery,6,14.5,Singapore,2026-02-07
+ORD-0116,CUST-070,Laptop,Electronics,8,850.0,Colombo,2026-08-08
+ORD-0487,CUST-221,Stapler,Stationery,3,12.0,Colombo,2026-09-15
+ORD-0067,CUST-140,Monitor,Electronics,5,210.0,Jakarta,2026-03-21
+ORD-0031,CUST-124,Stapler,Stationery,10,12.0,Kandy,2026/01/30
+ORD-0500,CUST-257,Jacket,Apparel,6,89.0,Kandy,2026-02-10
+ORD-0465,CUST-131,Office Chair,Furniture,4,145.0,Singapore,2026-05-05
+ORD-0333,CUST-162,Smartphone,Electronics,5,520.0,Kandy,01-22-2026
+ORD-0808,CUST-059,Olive Oil,Grocery,2,11.2,Galle,2026-08-20
+ORD-0339,CUST-093,Coffee Beans,Grocery,9,14.5,Colombo,31/02/2026
+ORD-0682,CUST-108,Green Tea,Grocery,4,6.75,Colombo,2026-05-16
+ORD-0858,CUST-038,Headphones,Electronics,6,79.99,Jakarta,24/01/2026
+ORD-0188,CUST-194,Running Shoes,Apparel,8,64.0,Jakarta,2026-10-06
+ORD-0866,CUST-114,Office Chair,Furniture,10,145.0,Kandy,2026-04-05
+ORD-0373,CUST-238,Green Tea,Grocery,4,6.75,Singapor,2026-09-05
+ORD-0265,CUST-213,Olive Oil,Grocery,5,11.2,Jakarta,2026-08-15
+ORD-0856,CUST-222,Jacket,Apparel,6,89.0,Singapore,2026-07-27
+ORD-0148,CUST-028,Office Chair,Furniture,9,145.0,Galle,2026-01-24
+ORD-0230,CUST-098,Smartphone,Electronics,2,520.0,Singapore,2026-05-22
+ORD-0238,CUST-059,Office Chair,Furniture,2,145.0,Singapore,27 Sep 2026
+ORD-0482,CUST-004,Smartphone,Electronics,7,520.0,Colombo,2026-01-25
+ORD-0955,CUST-028,Jacket,Apparel,9,89.0,Kandy,03-07-2026
+ORD-0928,CUST-041,Pen Set,Stationery,10,8.25,Kandy,2026-07-09
+ORD-0728,CUST-141,Smartphone,Electronics,2,520.0,Galle,2026-04-12
+ORD-0660,CUST-093,Running Shoes,Apparel,1,64.0,Singapore,2026-05-19
+ORD-0701,CUST-226,Green Tea,Grocery,8,6.75,Colombo,05-15-2026
+ORD-0324,CUST-124,Coffee Beans,Grocery,10,14.5,Colombo,30.06.2026
+ORD-0467,CUST-194,Bookshelf,Furniture,10,98.5,Colombo,2026-05-18
+ORD-0100,CUST-026,Desk,Furniture,9,230.0,Jakarta,2026-08-26
+ORD-0480,CUST-072,Desk,Furniture,9,230.0,Galle,2026-03-28
+ORD-0716,CUST-197,T-Shirt,Apparel,8,15.99,Singapore,2026-05-16
+ORD-0822,CUST-177,Bookshelf,Furniture,3,98.5,Kandy,2026-05-29
+ORD-0833,CUST-116,Bookshelf,Furniture,6,98.5,Jakarta,2026-08-15
+ORD-0096,CUST-024,Bookshelf,Furniture,4,98.5,Kandy,2026-01-13
+ORD-0135,CUST-250,Olive Oil,Grocery,4,135.91332982086408,Galle,"Apr 04, 2026"
+ORD-0582,CUST-001,Desk,Furniture,7,230.0,Singapore,2026-08-22
+ORD-0477,CUST-101,Coffee Beans,Grocery,6,14.5,Galle,20.03.2026
+ORD-0783,CUST-026,Stapler,Stationery,2,12.0,Galle,2026-08-26
+ORD-0774,CUST-155,Office Chair,Furniture,7,145.0,Kandy,2026-01-05
+ORD-0081,CUST-169,Laptop,Electronics,2.5,850.0,Kandy,2026-07-24
+ORD-0547,CUST-235,T-Shirt,Apparel,2,15.99,Galle,2026-04-11
+ORD-0829,CUST-053,Smartphone,Electronics,10,520.0,Galle,2026-08-20
+ORD-0687,CUST-018,Desk,Furniture,5,230.0,Singapore,2026-02-07
+ORD-0922,CUST-248,Desk,Furniture,5,230.0,Galle,2026-10-12
+ORD-0592,CUST-289,Office Chair,Furniture,1,145.0,Colombo,2026-09-29
+ORD-0203,CUST-119,Notebook,Stationery,8,3.5,Singapore,2026-03-15
+ORD-0838,CUST-080,Laptop,Electronics,1,850.0,Galle,2026-08-27
+ORD-0341,CUST-219,Stapler,Stationery,3,12.0,Galle,2026-08-17
+ORD-0921,CUST-286,Bookshelf,Furniture,8,98.5,Singapore,2026-10-10
+ORD-0365,CUST-101,Stapler,Stationery,9,12.0,Colombo.,2026-05-09
+ORD-0632,CUST-073,Coffee Beans,Grocery,5,14.5,Singapore,"Jan 31, 2026"
+ORD-0457,CUST-296,Stapler,Stationery,10,12.0,Kandy,2026-06-13
+ORD-0717,CUST-142,Olive Oil,Grocery,7,11.2,Colombo,2026-03-30
+ORD-0707,CUST-293,Smartphone,Electronics,10,520.0,Jakarta,2026-09-22
+ORD-0857,CUST-274,Laptop,Electronics,1,850.0,Singapore,2026-03-02
+ORD-0645,CUST-016,Stapler,Stationery,7,12.0,Galle,2026-03-31
+ORD-0607,CUST-159,Office Chair,Furniture,2,145.0,Galle,2026-02-12
+ORD-0611,CUST-062,Smartphone,Electronics,1,520.0,Galle,31.03.2026
+ORD-0889,CUST-233,T-Shirt,Apparel,1,15.99,Singapore,08-29-2026
+ORD-0184,CUST-070,Jacket,Apparel,2,89.0,Kandy,2026-09-18
+ORD-0402,CUST-242,Bookshelf,Furniture,1,98.5,Singapore,2026-09-14
+ORD-0437,CUST-032,Headphones,Electronics,9,79.99,Jakarta,2026/02/27
+ORD-0323,CUST-074,Laptop,Electronics,5,850.0,Jakarta,2026-05-04
+ORD-0056,CUST-121,Headphones,Electronics,7,79.99,Jakarta,2026-02-04
+ORD-0393,CUST-072,Office Chair,Furniture,6,145.0,Jakarta,2026-09-21
+ORD-0109,CUST-106,Green Tea,Grocery,7,6.75,Singapore,2026-02-01
+ORD-0877,CUST-090,Olive Oil,Grocery,10,135.91332982086408,Jakarta,"Feb 25, 2026"
+ORD-0692,CUST-098,Monitor,Electronics,7,210.0,Galle,2026-04-16
+ORD-0483,CUST-078,Office Chair,Furniture,1,135.91332982086408,Kandy,2026-02-04
+ORD-0030,CUST-058,Running Shoes,Apparel,6,64.0,Singapore,2026-03-02
+ORD-0134,CUST-173,Green Tea,Grocery,1,6.75,Jakarta,2026-07-14
+ORD-0052,CUST-152,Olive Oil,Grocery,4,11.2,Kandy,2026-04-08
+ORD-0288,CUST-040,Smartphone,Electronics,2,520.0,Galle,2026-05-27
+ORD-0554,CUST-276,Coffee Beans,Grocery,3,14.5,Kandy,2026-09-07
+ORD-0347,CUST-191,Office Chair,Furniture,8,145.0,Singapore,2026-03-02
+ORD-0628,CUST-126,Olive Oil,Grocery,2,135.91332982086408,Kandy,"Oct 07, 2026"
+ORD-0941,CUST-289,Pen Set,Stationery,8,8.25,Singapore,2026-07-13
+ORD-0073,CUST-076,Smartphone,Electronics,7,520.0,Galle,2026-10-10
+ORD-0176,CUST-266,Coffee Beans,Grocery,6,14.5,Colombo,2026-04-07
+ORD-0251,CUST-067,Coffee Beans,Grocery,9,14.5,Colombo,2026-07-10
+ORD-0588,CUST-176,Green Tea,Grocery,2,6.75,Colombo,2026-01-05
+ORD-0291,CUST-176,Smartphone,Electronics,2,520.0,Singapore,22 Feb 2026
+ORD-0824,CUST-299,T-Shirt,Apparel,10,135.91332982086408,Jakarta,2026-09-03
+ORD-0722,CUST-138,Stapler,Stationery,7,12.0,Singapore,14 Jun 2026
+ORD-0145,CUST-248,Desk,Furniture,5,230.0,Kandy,2026-04-21
+ORD-0278,CUST-203,Jacket,Apparel,0,89.0,Jakarta,02-10-2026
+ORD-0932,CUST-019,Notebook,Stationery,6,3.5,Jakarta,28/03/2026
+ORD-0563,CUST-226,T-Shirt,Apparel,9,15.99,Jakarta,2026-01-22
+ORD-0359,CUST-204,Headphones,Electronics,8,79.99,Colombo,2026-06-08
+ORD-0556,CUST-184,Running Shoes,Apparel,1,64.0,Singapore,"Jan 28, 2026"
+ORD-0212,CUST-021,Pen Set,Stationery,5,8.25,Kandy,19/02/2026
+ORD-0105,CUST-147,Pen Set,Stationery,4,8.25,Singapore,2026-02-09
+ORD-0527,CUST-072,Headphones,Electronics,5,79.99,Singapore,2026-09-13
+ORD-0574,CUST-232,Pen Set,Stationery,2,8.25,Singapore,2026-07-12
+ORD-0638,CUST-104,Pen Set,Stationery,3,8.25,Kandy,2026-02-08
+ORD-0016,CUST-118,Notebook,Stationery,1,3.5,Galle,29 Jan 2026
+ORD-0118,CUST-173,Bookshelf,Furniture,7,98.5,Singapore,2026-06-17
+ORD-0281,CUST-053,T-Shirt,Apparel,3,15.99,Kandy,"May 01, 2026"
+ORD-0162,CUST-279,Bookshelf,Furniture,4,98.5,Singapor,"Feb 28, 2026"
+ORD-0153,CUST-289,Smartphone,Electronics,5,520.0,Kandy,2026-03-18
+ORD-0280,CUST-100,Monitor,Electronics,6,210.0,Jakarta,2026-09-19
+ORD-0121,CUST-127,Headphones,Electronics,4,79.99,Colombo,2026-01-16
+ORD-0688,CUST-054,Laptop,Electronics,2,850.0,Galle,05-14-2026
+ORD-0452,CUST-058,Office Chair,Furniture,1,145.0,Galle,2026-04-07
+ORD-0792,CUST-067,Jacket,Apparel,8,89.0,Galle,2026-01-15
+ORD-0327,CUST-023,Laptop,Electronics,7,850.0,Singapore,29.08.2026
+ORD-0546,CUST-275,Pen Set,Stationery,3,8.25,Colombo,22/02/2026
+ORD-0284,CUST-162,Green Tea,Grocery,3,6.75,Jakarta,2026-06-15
+ORD-0294,CUST-172,Coffee Beans,Grocery,0,14.5,Galle,2026-01-27
+ORD-0198,CUST-228,Coffee Beans,Grocery,3,14.5,Colombo,21 Feb 2026
+ORD-0206,CUST-218,T-Shirt,Apparel,5,15.99,Jakarta,"Jun 03, 2026"
+ORD-0329,CUST-298,T-Shirt,Apparel,6,15.99,Kandy,2026-02-23
+ORD-0215,CUST-272,Office Chair,Furniture,9,145.0,Jakarta,2026-07-07
+ORD-0914,CUST-218,Jacket,Apparel,3,89.0,Galle,20/02/2026
+ORD-0655,CUST-152,Office Chair,Furniture,8,145.0,Colombo,2026-05-06
+ORD-0925,CUST-174,Bookshelf,Furniture,9,98.5,Jkt,2026-07-25
+ORD-0777,CUST-103,Monitor,Electronics,5,210.0,Singapore,2026-04-12
+ORD-0592,CUST-289,Office Chair,Furniture,1,145.0,Colombo,2026-09-29
+ORD-0024,CUST-284,Green Tea,Grocery,1,6.75,Jakarta,2026-05-09
+ORD-0320,CUST-122,Coffee Beans,Grocery,5,14.5,Colombo,2026/05/28
+ORD-0764,CUST-197,Stapler,Stationery,9,12.0,Kandy,02-22-2026
+ORD-0675,CUST-163,Desk,Furniture,3,230.0,Singapore,2026-09-07
+ORD-0785,CUST-024,Coffee Beans,Grocery,1,14.5,Clmb,2026-02-18
+ORD-0534,CUST-201,Notebook,Stationery,8,3.5,Sg,2026/07/11
+ORD-0106,CUST-277,Pen Set,Stationery,2,8.25,Galle,2026-06-13
+ORD-0048,CUST-048,Smartphone,Electronics,4,520.0,Jakarta,2026-01-08
+ORD-0911,CUST-067,Monitor,Electronics,2,210.0,Colombo,2026-09-04
+ORD-0479,CUST-252,Running Shoes,Apparel,8,64.0,Galle,2026-09-08
+ORD-0342,CUST-022,Green Tea,Grocery,6,6.75,Galle,"Aug 17, 2026"
+ORD-0090,CUST-195,Office Chair,Furniture,3,145.0,Kandy,04 Aug 2026
+ORD-0957,CUST-235,T-Shirt,Apparel,2,15.99,Singapore,2026-03-31
+ORD-0609,CUST-123,Headphones,Electronics,1,79.99,Galle,"Aug 12, 2026"
+ORD-0869,CUST-051,Stapler,Stationery,4,12.0,Colombo,2026-05-09
+ORD-0704,CUST-284,Coffee Beans,Grocery,1,14.5,Jakarta,"Apr 27, 2026"
+ORD-0046,CUST-143,Office Chair,Furniture,8,145.0,Singapore,2026-04-04
+ORD-0319,CUST-281,Pen Set,Stationery,10,8.25,Kandy,2026-03-18
+ORD-0005,CUST-143,Coffee Beans,Grocery,1,14.5,Kandy,2026-08-18
+ORD-0119,CUST-042,Pen Set,Stationery,8,8.25,Singapore,2026-05-10
+ORD-0535,CUST-248,Office Chair,Furniture,2,145.0,Galle,2026-01-13
+ORD-0886,CUST-248,Desk,Furniture,6,230.0,Jakarta,2026/03/16
+ORD-0731,CUST-180,Olive Oil,Grocery,6,11.2,Jakarta,2026-10-10
+ORD-0397,CUST-014,Monitor,Electronics,10,210.0,Singapore,07 Jun 2026
+ORD-0471,CUST-283,Bookshelf,Furniture,6,98.5,Singapore,2026-05-03
+ORD-0038,CUST-031,Notebook,Stationery,4,3.5,Colombo,2026-02-06
+ORD-0742,CUST-097,Pen Set,Stationery,3,8.25,Galle,2026-06-02
+ORD-0211,CUST-113,Notebook,Stationery,4,3.5,Jakarta,2026-06-30
+ORD-0136,CUST-144,T-Shirt,Apparel,10,15.99,Galle,2026-06-24
+ORD-0693,CUST-122,Pen Set,Stationery,2,8.25,Galle,2026-06-02
+ORD-0529,CUST-299,Headphones,Electronics,7,79.99,Singapore,"Sep 03, 2026"
+ORD-0842,CUST-207,Coffee Beans,Grocery,2,14.5,Jakarta,2026-10-02
+ORD-0101,CUST-069,Notebook,Stationery,8,3.5,Colombo,2026-08-22
+ORD-0893,CUST-265,Pen Set,Stationery,7,8.25,Singapore,25/04/2026
+ORD-0788,CUST-234,Monitor,Electronics,5,210.0,Singapore,2026-07-24
+ORD-0147,CUST-008,T-Shirt,Apparel,9,15.99,Kandy,2026-06-04
+ORD-0336,CUST-224,Pen Set,Stationery,7,8.25,Colombo,2026-07-08
+ORD-0795,CUST-268,Notebook,Stationery,10,3.5,Galle,2026-09-23
+ORD-0318,CUST-041,Green Tea,Grocery,1,6.75,Jakarta,2026-01-03
+ORD-0537,CUST-234,T-Shirt,Apparel,4,15.99,Galle,25.06.2026
+ORD-0895,CUST-226,Laptop,Electronics,3,850.0,Jakarta,2026-03-13
+ORD-0751,CUST-300,Running Shoes,Apparel,5,64.0,Galle,2026-05-14
+ORD-0496,CUST-039,Olive Oil,Grocery,5,11.2,Galle,2026-01-24
+ORD-0946,CUST-205,Notebook,Stationery,6,3.5,Galle,2026-02-17
+ORD-0349,CUST-128,Jacket,Apparel,2,89.0,Galle,2026-05-23
+ORD-0195,CUST-042,Running Shoes,Apparel,6,64.0,Jakarta,23/07/2026
+ORD-0158,CUST-123,Pen Set,Stationery,3,8.25,Colombo,2026-03-22
+ORD-0513,CUST-044,Stapler,Stationery,9,12.0,Singapore,18.07.2026
+ORD-0927,CUST-046,Office Chair,Furniture,2,145.0,Singapore,2026-08-11
+ORD-0495,CUST-118,Monitor,Electronics,4,210.0,Jakarta,2026-01-22
+ORD-0819,CUST-176,Notebook,Stationery,5,3.5,Galle,2026-07-23
+ORD-0026,CUST-233,Stapler,Stationery,1,12.0,Singapore,2026-03-22
+ORD-0519,CUST-070,Bookshelf,Furniture,5,98.5,Singapor,2026-02-24
+ORD-0455,CUST-206,Smartphone,Electronics,8,520.0,Kandy,2026-01-23
+ORD-0095,CUST-159,Running Shoes,Apparel,4,64.0,Colombo,2026-05-01
+ORD-0936,CUST-178,Stapler,Stationery,5,12.0,Jakarta,2026-06-28
+ORD-0207,CUST-197,Green Tea,Grocery,8,6.75,Galle,2026-04-12
+ORD-0797,CUST-028,Jacket,Apparel,1,89.0,Kandy,2026/10/13
+ORD-0039,CUST-037,Headphones,Electronics,9,79.99,Colombo,2026-06-19
+ORD-0804,CUST-019,Monitor,Electronics,9,210.0,Sg,2026-07-31
+ORD-0384,CUST-005,Olive Oil,Grocery,2,11.2,Galle,2026-10-02
+ORD-0115,CUST-014,Office Chair,Furniture,7,145.0,Jakarta,2026-10-01
+ORD-0180,CUST-048,Laptop,Electronics,4,850.0,Jakarta,2026-03-02
+ORD-0610,CUST-060,Notebook,Stationery,8,3.5,Colombo,2026-08-11
+ORD-0538,CUST-050,Olive Oil,Grocery,8,11.2,Galle,2026/09/01
+ORD-0222,CUST-033,Running Shoes,Apparel,8,64.0,Jakarta,2026-04-24
+ORD-0310,CUST-284,Smartphone,Electronics,2,520.0,Singapore,07-10-2026
+ORD-0363,CUST-079,Smartphone,Electronics,5,520.0,Colombo,2026-09-23
+ORD-0850,CUST-276,Headphones,Electronics,9,79.99,Colombo,2026-03-27
+ORD-0463,CUST-154,Olive Oil,Grocery,3,11.2,Kandy,04-26-2026
+ORD-0381,CUST-202,Olive Oil,Grocery,9,11.2,Colombo,2026-02-16
+ORD-0244,CUST-141,Office Chair,Furniture,10,145.0,Colombo,2026-03-06
+ORD-0899,CUST-108,Olive Oil,Grocery,10,11.2,Singapore,2026-09-03
+ORD-0509,CUST-096,Monitor,Electronics,7,210.0,Kandy,2026-02-14
+ORD-0089,CUST-152,Coffee Beans,Grocery,9,14.5,Galle,2026-07-26
+ORD-0424,CUST-084,Bookshelf,Furniture,8,98.5,Colombo,19.06.2026
+ORD-0279,CUST-087,Running Shoes,Apparel,2,64.0,Kndy,2026-06-20
